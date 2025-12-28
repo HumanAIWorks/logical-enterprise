@@ -32,26 +32,29 @@ e
 
 ---
 
-## Da improvisação à coerência
+## Do “fazer o melhor possível” à coerência
 
 Sem um modelo explícito,
-as empresas operam por improvisação informada.
+as empresas funcionam da seguinte forma:
+as pessoas fazem o melhor que conseguem
+com a informação que têm naquele momento.
 
 Pessoas competentes fazem o melhor que podem,
 baseadas em:
-- experiência
-- memória
+- experiência pessoal
+- memória do que já foi discutido
 - conversas passadas
 - intuição
 
-Isso funciona — até certo ponto.
+Isso funciona —
+até o momento em que a complexidade aumenta.
 
-A Empresa Lógica resolve o momento
-em que a improvisação deixa de ser suficiente
-e a coerência passa a ser indispensável.
+A Empresa Lógica resolve exatamente esse ponto de ruptura:
+quando confiar apenas na memória, na interpretação
+e no esforço individual deixa de ser suficiente.
 
 Ela não elimina a intuição.
-Ela **a sustenta com estrutura**.
+Ela **dá estrutura para que ela continue funcionando**.
 
 ---
 
@@ -59,10 +62,10 @@ Ela **a sustenta com estrutura**.
 
 Um dos maiores equívocos modernos
 é tentar resolver problemas de entendimento
-com mais velocidade.
+simplesmente acelerando a execução.
 
 A Empresa Lógica resolve isso
-ao inverter a ordem natural das coisas:
+ao inverter a ordem das coisas:
 
 Antes de acelerar,
 é preciso **clarear**.
@@ -75,8 +78,8 @@ Ela cria um espaço onde:
 - os impactos são considerados
 
 Com isso,
-a velocidade deixa de gerar caos
-e passa a gerar progresso.
+a velocidade deixa de gerar confusão
+e passa a gerar progresso real.
 
 ---
 
@@ -109,45 +112,48 @@ Outro ponto central que a Empresa Lógica resolve
 é a dificuldade de comunicação entre áreas.
 
 Quando cada área:
-- enxerga apenas sua parte
+- enxerga apenas sua própria parte
 - interpreta o negócio de forma diferente
-- toma decisões sem ver o impacto no todo
+- toma decisões sem considerar o impacto no todo
 
 Conflitos surgem naturalmente.
 
 A Empresa Lógica resolve isso
 não impondo controle,
-mas criando **referências comuns**.
+mas tornando explícitas as mesmas regras,
+decisões e limites para todos.
 
-Ela oferece:
-- linguagem compartilhada
-- regras explícitas
-- contratos claros entre funções
-- critérios objetivos para decisão
+Ela torna visível:
+- quais regras existem
+- quais decisões já foram tomadas
+- como as áreas se relacionam
+- quais limites não podem ser ultrapassados
+- quais critérios devem ser usados para decidir
 
 Com isso,
-o diálogo deixa de ser subjetivo
-e passa a ser **estruturado**.
+o diálogo deixa de depender de interpretações pessoais
+e passa a se apoiar em fatos
+e decisões já estabelecidas.
 
 ---
 
 ## Uso consciente da Inteligência Artificial
 
 A Empresa Lógica resolve um dos maiores riscos atuais:
-usar IA sem contexto.
+usar IA sem contexto suficiente.
 
 Ela fornece à IA aquilo que normalmente falta:
-- entendimento do negócio
-- limites claros
-- decisões anteriores
-- padrões aceitos
+- entendimento claro do negócio
+- limites bem definidos
+- decisões anteriores acessíveis
+- padrões aceitos pela empresa
 - visão do todo
 
 Com isso,
 a IA deixa de:
 - sugerir soluções desconectadas
 - contradizer decisões anteriores
-- otimizar partes quebrando o todo
+- otimizar partes quebrando o conjunto
 
 E passa a:
 - colaborar com coerência
@@ -157,7 +163,7 @@ E passa a:
 
 ---
 
-## Um benefício que não é óbvio no início
+## Um benefício que nem sempre é percebido de imediato
 
 Um dos efeitos mais importantes da Empresa Lógica
 não é técnico.
@@ -171,7 +177,7 @@ Ela ajuda as pessoas a:
 - pensarem além da própria área
 
 Isso eleva a qualidade das decisões
-e o senso de responsabilidade coletiva.
+e fortalece o senso de responsabilidade coletiva.
 
 ---
 
@@ -200,7 +206,8 @@ A Empresa Lógica resolve:
 
 Ela não resolve tudo.
 Mas resolve aquilo
-sem o qual nada mais escala de forma saudável.
+sem o qual nada mais escala
+de forma saudável.
 
 ---
 
