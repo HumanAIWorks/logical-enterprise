@@ -23,11 +23,13 @@ não é pessoa
 e não é título.
 
 Uma função representa:
+
 - um tipo de responsabilidade que precisa existir
 - um conjunto de decisões que precisam ser tomadas
 - um papel lógico no funcionamento da empresa
 
 Exemplos de funções (não cargos):
+
 - definição de produto
 - decisão sobre prioridades
 - validação de regras de negócio
@@ -43,6 +45,7 @@ Isso não altera o modelo.
 ## Por que mapear funções antes de qualquer outra coisa
 
 Quando funções não estão claras:
+
 - decisões ficam implícitas
 - conflitos surgem por sobreposição
 - ninguém sabe quem decide o quê
@@ -59,6 +62,7 @@ Um bom ponto de partida é observar decisões,
 não atividades.
 
 Pergunte:
+
 - que tipo de decisão precisa ser tomada aqui?
 - quem é responsável por esse tipo de decisão?
 - o que acontece se essa decisão não existir?
@@ -74,6 +78,7 @@ Toda empresa, independente do tamanho,
 precisa de algumas funções básicas.
 
 Por exemplo:
+
 - definir o que será criado (produto ou serviço)
 - decidir prioridades
 - garantir que regras sejam respeitadas
@@ -105,6 +110,7 @@ Clareza é mais importante que detalhe.
 ## Funções não são estáticas
 
 Funções podem:
+
 - surgir
 - mudar
 - se dividir
@@ -115,6 +121,7 @@ Ela exige que mudanças sejam **registradas**.
 
 Quando uma função muda,
 o importante é:
+
 - deixar claro o que mudou
 - registrar o motivo
 - atualizar as relações com outras funções
@@ -141,6 +148,7 @@ Toda decisão relevante
 deve estar ligada a uma função.
 
 Se uma decisão:
+
 - não tem função responsável
 - depende apenas de pessoas específicas
 - muda conforme quem está envolvido
@@ -155,6 +163,7 @@ tornando a responsabilidade explícita.
 ## Benefícios diretos do mapeamento de funções
 
 Quando funções estão claras:
+
 - decisões ficam mais rápidas
 - conflitos diminuem
 - novas pessoas entendem melhor a empresa
@@ -169,6 +178,7 @@ Não é burocracia.
 ## Em essência
 
 Mapear funções é:
+
 - identificar responsabilidades reais
 - separar função de pessoa
 - tornar decisões explícitas

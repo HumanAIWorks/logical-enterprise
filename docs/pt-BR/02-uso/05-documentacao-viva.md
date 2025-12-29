@@ -20,6 +20,7 @@ Na Empresa Lógica,
 documentação não é um objetivo em si.
 
 Ela existe para:
+
 - preservar contexto
 - apoiar decisões
 - reduzir retrabalho
@@ -34,6 +35,7 @@ ela perdeu sua função.
 ## O que torna uma documentação “viva”
 
 Uma documentação é viva quando:
+
 - é consultada antes de decisões
 - é atualizada quando algo muda
 - reflete o estado atual da empresa
@@ -50,6 +52,7 @@ Um erro comum é documentar demais.
 
 Na Empresa Lógica,
 devem ser documentados principalmente:
+
 - decisões relevantes
 - regras que orientam decisões
 - limites que não podem ser quebrados
@@ -66,6 +69,7 @@ e raramente são reutilizados.
 Documentação não deve ser algo separado do trabalho.
 
 Sempre que algo relevante mudar:
+
 - uma decisão for tomada
 - uma regra for criada ou alterada
 - um limite for ajustado
@@ -79,11 +83,13 @@ como parte do próprio processo de decisão.
 ## Pequenas atualizações frequentes
 
 É melhor:
+
 - atualizar pouco e com frequência
 do que
 - atualizar tudo de tempos em tempos
 
 Pequenas atualizações:
+
 - reduzem resistência
 - mantêm a documentação confiável
 - evitam grandes revisões traumáticas
@@ -96,6 +102,7 @@ Na Empresa Lógica,
 clareza é mais importante que formato.
 
 Prefira:
+
 - textos simples
 - linguagem direta
 - estruturas fáceis de navegar
@@ -111,6 +118,7 @@ Evite múltiplos lugares
 com versões diferentes da mesma informação.
 
 Sempre que possível:
+
 - mantenha uma única fonte de referência
 - evite cópias não sincronizadas
 - direcione pessoas e IA para o mesmo local
@@ -126,6 +134,7 @@ Para a IA,
 documentação viva é essencial.
 
 Ela permite que a IA:
+
 - use decisões reais como contexto
 - respeite regras e limites atuais
 - evite repetir sugestões descartadas
@@ -139,6 +148,7 @@ volta a operar por suposição.
 ## Quando revisar a documentação
 
 Alguns bons momentos para revisão:
+
 - após decisões importantes
 - ao iniciar um novo projeto
 - ao envolver novas pessoas
@@ -153,6 +163,7 @@ Significa **ajustar o que mudou**.
 ## O risco de ignorar a documentação
 
 Quando a documentação é ignorada:
+
 - decisões se contradizem
 - regras deixam de ser respeitadas
 - exceções viram padrão
@@ -167,6 +178,7 @@ o problema não é falta de método.
 ## Em essência
 
 Documentação viva é:
+
 - usada antes de decidir
 - atualizada quando algo muda
 - simples o suficiente para ser mantida

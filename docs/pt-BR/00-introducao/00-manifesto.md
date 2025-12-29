@@ -14,6 +14,7 @@ Nunca foi tão fácil produzir coisas.
 E nunca foi tão difícil **manter coerência**.
 
 Projetos nascem rapidamente, mas:
+
 - decisões se perdem com o tempo
 - a documentação não acompanha a evolução
 - ideias surgem sem considerar impactos
@@ -45,6 +46,7 @@ ou simplesmente por pressupostos não ditos,
 detalhes fundamentais deixam de ser compartilhados.
 
 Muitas vezes isso ocorre:
+
 - por falta de conhecimento de quem pede
 - por achar que certos detalhes “são óbvios”
 - por presumir que todos já conhecem o contexto
@@ -53,6 +55,7 @@ Muitas vezes isso ocorre:
 O pedido então chega incompleto.
 
 Não fica claro:
+
 - o que exatamente é o produto ou serviço
 - para que ele foi criado
 - quais problemas resolve
@@ -104,6 +107,7 @@ Não como cargos.
 Não como ferramentas.  
 
 Mas como um **modelo lógico de funcionamento**, composto por:
+
 - funções (áreas lógicas)
 - princípios e limites claros
 - fluxos de criação e evolução de produtos
@@ -135,6 +139,7 @@ essa generalidade se transforma em inconsistência.
 
 Com a Empresa Lógica,
 a IA pode atuar como:
+
 - parceira de raciocínio
 - exploradora de alternativas
 - antecipadora de riscos
@@ -150,6 +155,7 @@ Sempre **dentro dos limites definidos pela própria empresa**.
 A Empresa Lógica não depende do tamanho da empresa.
 
 Ela funciona:
+
 - para quem ainda está começando
 - para solo founders
 - para times pequenos
@@ -171,6 +177,7 @@ A Empresa Lógica existe para tornar o implícito
 ## Um compromisso com clareza e responsabilidade
 
 A Empresa Lógica assume que:
+
 - decisões precisam ser registradas
 - regras precisam ser conhecidas
 - mudanças precisam ser compreendidas
@@ -186,6 +193,7 @@ Especialmente quando sistemas inteligentes participam do processo.
 ## Em resumo
 
 A Empresa Lógica:
+
 - não é um software
 - não é um framework de tarefas
 - não é um organograma

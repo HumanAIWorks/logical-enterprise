@@ -18,6 +18,7 @@ Hierarquia lógica responde a uma pergunta simples:
 > para que outra coisa faça sentido?”
 
 Ela não trata de:
+
 - cargos
 - autoridade
 - senioridade
@@ -33,6 +34,7 @@ Hierarquias tradicionais organizam pessoas.
 A Empresa Lógica organiza **funções**.
 
 Quando se usa hierarquia de poder:
+
 - decisões se confundem com autoridade
 - áreas competem em vez de colaborar
 - conflitos viram disputas pessoais
@@ -47,6 +49,7 @@ não em status.
 ## Dependência lógica na prática
 
 Uma função depende de outra quando:
+
 - precisa de uma definição prévia
 - precisa respeitar limites já estabelecidos
 - não consegue decidir sem contexto anterior
@@ -105,6 +108,7 @@ no mesmo nível de dependência,
 desde que não dependam umas das outras.
 
 O importante é:
+
 - deixar claro quem depende de quem
 - evitar ciclos de dependência
 - registrar exceções quando existirem
@@ -114,12 +118,14 @@ O importante é:
 ## Evitando ciclos de dependência
 
 Um ciclo acontece quando:
+
 - função A depende de B
 - função B depende de A
 
 Isso é um sinal de problema de definição.
 
 Quando isso ocorrer:
+
 - revise as responsabilidades
 - separe decisões
 - torne os limites mais claros
@@ -146,6 +152,7 @@ evitam grande parte dos problemas.
 ## Benefícios diretos da hierarquia lógica
 
 Quando a hierarquia lógica está clara:
+
 - decisões ficam mais coerentes
 - conflitos diminuem
 - discussões ficam objetivas
@@ -160,6 +167,7 @@ Não é controle.
 ## Em essência
 
 Hierarquia lógica é:
+
 - ordem de dependência
 - clareza sobre o que vem antes
 - separação entre poder e função

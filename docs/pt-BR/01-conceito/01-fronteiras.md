@@ -4,6 +4,7 @@ Para que a Empresa Lógica seja útil,
 é fundamental entender **onde ela começa e onde ela termina**.
 
 Este documento existe para evitar dois problemas comuns:
+
 - tentar usar a Empresa Lógica para resolver tudo
 - rejeitar a Empresa Lógica por esperar algo que ela não se propõe a fazer
 
@@ -37,6 +38,7 @@ conversas passadas e interpretações individuais.
 A Empresa Lógica atua **no nível do entendimento**.
 
 Ela atua:
+
 - antes da execução
 - durante a tomada de decisão
 - quando há dúvidas ou conflitos
@@ -53,6 +55,7 @@ Ela **orienta como o trabalho deve ser pensado**.
 A Empresa Lógica termina exatamente onde começa a execução.
 
 Ela **não substitui**:
+
 - a implementação técnica
 - o trabalho operacional
 - a gestão do dia a dia
@@ -70,6 +73,7 @@ Para evitar interpretações equivocadas,
 é importante deixar claro o que **não faz parte** da Empresa Lógica.
 
 Ela não é responsável por:
+
 - executar tarefas
 - gerenciar pessoas
 - definir metas operacionais
@@ -85,6 +89,7 @@ mas não fazem parte dela.
 ## A Empresa Lógica não concorre com métodos existentes
 
 A Empresa Lógica não foi criada para substituir:
+
 - métodos de gestão
 - frameworks ágeis
 - modelos de governança
@@ -95,6 +100,7 @@ fornecendo clareza para que eles funcionem melhor.
 
 Se um método já existe,
 a Empresa Lógica ajuda a responder:
+
 - por que ele é usado
 - onde ele se aplica
 - quais limites ele deve respeitar
@@ -108,6 +114,7 @@ Ferramentas são meios.
 A Empresa Lógica é entendimento.
 
 Ela não depende de:
+
 - software específico
 - plataforma
 - linguagem
@@ -126,6 +133,7 @@ como apoio à execução.
 **A Empresa Lógica não faz a IA tomar decisões.**
 
 Ela fornece à IA:
+
 - contexto
 - limites
 - histórico
@@ -141,6 +149,7 @@ não como autoridade.
 ## Por que respeitar essas fronteiras é essencial
 
 Quando as fronteiras não são claras:
+
 - expectativas se distorcem
 - frustrações surgem
 - o conceito é mal utilizado
@@ -155,6 +164,7 @@ mas o uso fora de escopo.
 ## Em resumo
 
 A Empresa Lógica:
+
 - começa no entendimento
 - atua na clareza
 - termina antes da execução

@@ -22,6 +22,7 @@ A Empresa Lógica não impõe
 uma ordem obrigatória de início.
 
 Ela funciona quando:
+
 - uma empresa decide documentar tudo de uma vez, ou
 - uma empresa começa por partes, conforme a necessidade
 
@@ -39,6 +40,7 @@ Embora não exista um único caminho,
 é importante escolher **por onde começar**.
 
 Esse ponto pode ser:
+
 - um produto
 - um serviço
 - uma área específica
@@ -46,6 +48,7 @@ Esse ponto pode ser:
 - ou até a empresa como um todo
 
 A escolha deve considerar:
+
 - onde há mais confusão
 - onde decisões se contradizem
 - onde o contexto se perde
@@ -107,6 +110,7 @@ Documentação que não é consultada
 não cumpre seu papel.
 
 Garanta que:
+
 - as informações sejam fáceis de encontrar
 - pessoas envolvidas possam consultar
 - a IA possa usar esse contexto, quando aplicável
@@ -122,6 +126,7 @@ A Empresa Lógica não é algo que se escreve
 e se esquece.
 
 Ela deve ser usada:
+
 - antes de novas decisões
 - ao revisar algo existente
 - quando surgirem conflitos
@@ -138,6 +143,7 @@ A Empresa Lógica funciona
 independentemente do uso de IA.
 
 Ela já gera valor quando:
+
 - decisões ficam claras
 - o contexto não se perde
 - as pessoas se entendem melhor
@@ -151,6 +157,7 @@ da clareza já existente.
 ## O que evitar no início (independente do tamanho)
 
 Evite:
+
 - documentar por obrigação
 - criar estruturas difíceis de manter
 - registrar informações sem uso prático
@@ -164,6 +171,7 @@ algo está errado.
 ## Em essência
 
 Iniciar a Empresa Lógica significa:
+
 - escolher um ponto de partida consciente
 - deixar claro o que está sendo documentado
 - registrar decisões relevantes

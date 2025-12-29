@@ -17,6 +17,7 @@ Antes de fazer,
 é preciso entender.
 
 Toda decisão relevante deve partir de:
+
 - um problema claramente definido
 - um entendimento comum do produto ou serviço
 - regras e limites conhecidos
@@ -32,6 +33,7 @@ A Empresa Lógica descreve **funções**,
 não cargos nem indivíduos.
 
 Isso significa:
+
 - entender o papel que precisa existir
 - definir por que esse papel existe
 - estabelecer quais decisões ele pode tomar
@@ -46,6 +48,7 @@ Funções permanecem.
 Decisões importantes não podem depender de memória.
 
 Sempre que uma decisão:
+
 - define um limite
 - cria uma exceção
 - altera o funcionamento de um produto
@@ -65,6 +68,7 @@ e perda de contexto.
 Conflitos surgem quando regras são implícitas.
 
 A Empresa Lógica incentiva que:
+
 - regras existam
 - regras sejam conhecidas
 - exceções sejam explícitas
@@ -82,6 +86,7 @@ podem gerar impactos inesperados em outras.
 
 Antes de criar, alterar ou decidir algo em uma parte,
 é necessário avaliar:
+
 - o impacto em outras funções
 - o impacto no produto
 - o impacto no negócio como um todo
@@ -98,6 +103,7 @@ A Empresa Lógica não é um retrato do momento.
 Ela é um registro vivo.
 
 Isso implica:
+
 - preservar decisões passadas
 - entender por que algo foi feito
 - evitar reabrir discussões sem necessidade
@@ -112,6 +118,7 @@ O presente não precisa reinventar tudo.
 Documentar não significa complicar.
 
 A Empresa Lógica valoriza:
+
 - textos simples
 - linguagem direta
 - estruturas fáceis de manter
@@ -127,6 +134,7 @@ A Empresa Lógica não delega decisões à IA.
 
 Ela fornece contexto
 para que a IA:
+
 - ajude a pensar
 - explore alternativas
 - antecipe riscos
@@ -139,6 +147,7 @@ A decisão final continua sendo humana.
 ## Princípio 9 — Documentação é fonte de verdade
 
 Quando existe conflito entre:
+
 - memória
 - interpretação
 - opinião
@@ -158,6 +167,7 @@ A Empresa Lógica aceita mudanças,
 mas de forma consciente.
 
 Mudanças devem:
+
 - respeitar decisões existentes
 - registrar novas escolhas
 - deixar claro o que mudou e por quê
@@ -170,6 +180,7 @@ Evoluir não é apagar o passado.
 ## Em resumo
 
 Os princípios da Empresa Lógica existem para:
+
 - manter coerência
 - reduzir ruído
 - preservar contexto

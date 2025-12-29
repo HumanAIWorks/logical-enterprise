@@ -36,6 +36,7 @@ o problema geralmente não é técnico.
 ## Uso na criação de novos produtos ou serviços
 
 Criar algo novo exige decisões em várias frentes:
+
 - problema que será resolvido
 - público atendido
 - regras do negócio
@@ -43,6 +44,7 @@ Criar algo novo exige decisões em várias frentes:
 - limitações técnicas e operacionais
 
 A Empresa Lógica ajuda a:
+
 - organizar esse raciocínio
 - evitar decisões isoladas
 - registrar escolhas importantes
@@ -59,6 +61,7 @@ Mesmo quando a empresa ainda é apenas uma ideia,
 as decisões já começam a ser tomadas.
 
 A Empresa Lógica ajuda a:
+
 - pensar como empresa desde o início
 - tornar explícitas funções que ainda não existem
 - evitar decisões contraditórias logo na origem
@@ -112,6 +115,7 @@ ela passa a trabalhar
 Nem toda situação exige esse nível de clareza.
 
 A Empresa Lógica pode ser dispensável quando:
+
 - a decisão é simples e isolada
 - não há impacto em outras áreas
 - não existe risco de repetição futura
@@ -128,6 +132,7 @@ A Empresa Lógica não precisa ser aplicada
 de uma vez só.
 
 Ela pode começar:
+
 - com poucas funções mapeadas
 - com decisões mais relevantes registradas
 - com regras básicas explicitadas
@@ -140,6 +145,7 @@ o modelo evolui junto com a empresa.
 ## Em essência
 
 Use a Empresa Lógica quando:
+
 - a clareza é mais importante que a velocidade
 - decisões precisam ser consistentes
 - o contexto não pode se perder

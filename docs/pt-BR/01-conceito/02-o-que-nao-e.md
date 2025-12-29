@@ -32,6 +32,7 @@ antes de resolver o problema de entendimento.
 ## A Empresa Lógica não é um framework de tarefas
 
 Ela não é:
+
 - um gerenciador de tarefas
 - um quadro Kanban
 - um backlog
@@ -41,6 +42,7 @@ A Empresa Lógica não diz
 *o que fazer hoje*.
 
 Ela ajuda a entender:
+
 - **o que faz sentido fazer**
 - **por que algo deve ser feito**
 - **o que não deve ser feito**
@@ -52,6 +54,7 @@ Tarefas vêm depois.
 ## A Empresa Lógica não é um método de gestão
 
 Ela não substitui:
+
 - métodos ágeis
 - modelos de gestão
 - processos operacionais
@@ -69,6 +72,7 @@ criando clareza para que esses métodos funcionem melhor.
 ## A Empresa Lógica não é um organograma
 
 Ela não descreve:
+
 - cargos
 - níveis hierárquicos
 - relações de poder
@@ -77,6 +81,7 @@ Ela não descreve:
 Ela descreve **funções**.
 
 Uma função pode ser exercida por:
+
 - uma pessoa
 - várias pessoas
 - um time
@@ -101,11 +106,13 @@ apenas acelera erros.
 ## A Empresa Lógica não é exclusiva para grandes empresas
 
 Ela não foi criada apenas para:
+
 - corporações
 - empresas maduras
 - times grandes
 
 Ela funciona igualmente para:
+
 - quem está começando
 - solo founders
 - times pequenos
@@ -119,6 +126,7 @@ não o modelo.
 ## A Empresa Lógica não elimina a complexidade
 
 Ela não promete:
+
 - simplificar tudo
 - remover decisões difíceis
 - eliminar conflitos
@@ -133,6 +141,7 @@ E tornar algo visível
 ## O risco de usar a Empresa Lógica para o que ela não é
 
 Quando a Empresa Lógica é usada fora de escopo:
+
 - ela parece burocrática
 - ela parece lenta
 - ela parece desnecessária
@@ -146,6 +155,7 @@ mas a expectativa errada sobre ele.
 ## Em resumo
 
 A Empresa Lógica **não é**:
+
 - software
 - ferramenta
 - framework de tarefas

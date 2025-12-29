@@ -14,6 +14,7 @@ começavam a se tornar difíceis de sustentar com coerência ao longo do tempo.
 Em um determinado momento, o problema deixou de ser “o que fazer”.
 
 As perguntas passaram a ser outras:
+
 - Por que isso foi feito dessa forma?
 - Qual decisão levou a esse caminho?
 - Que regra não pode ser quebrada aqui?
@@ -33,6 +34,7 @@ mas porque **as respostas nunca foram registradas de forma estruturada**.
 o volume de decisões aumentava.
 
 Cada novo projeto parecia exigir:
+
 - lembrar o que foi decidido antes
 - reconsiderar escolhas antigas
 - alinhar expectativas entre pessoas diferentes
@@ -100,6 +102,7 @@ A virada aconteceu com uma pergunta simples:
 Não como cargos.
 Não como ferramentas.
 Mas como:
+
 - funções que existem por um motivo
 - regras que orientam decisões
 - limites que não podem ser ultrapassados
@@ -120,6 +123,7 @@ Não como um sistema fechado,
 mas como um **modelo de pensamento**.
 
 Um modelo que descreve:
+
 - como a empresa funciona
 - como produtos nascem e evoluem
 - como áreas se relacionam
@@ -145,6 +149,7 @@ não o objetivo principal.
 
 Quando a empresa se torna explícita,
 todos trabalham melhor:
+
 - quem já está dentro
 - quem chega depois
 - quem toma decisões
@@ -159,6 +164,7 @@ Desde o início, uma escolha foi clara:
 a Empresa Lógica não tentaria resolver tudo.
 
 Ela não nasceu para:
+
 - substituir métodos existentes
 - impor uma ferramenta
 - criar um novo “framework da moda”

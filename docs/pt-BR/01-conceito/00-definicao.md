@@ -52,6 +52,7 @@ matemática ou sistemas formais.
 Aqui, “lógica” significa **coerência**.
 
 Uma empresa é lógica quando:
+
 - decisões não se contradizem
 - regras são conhecidas
 - exceções são claras
@@ -69,6 +70,7 @@ Um erro comum é confundir Empresa Lógica
 com estrutura hierárquica.
 
 A Empresa Lógica:
+
 - não define quem manda em quem
 - não descreve cargos ou níveis de poder
 - não substitui o organograma
@@ -79,6 +81,7 @@ Ela responde a outra pergunta:
 > para que a empresa funcione de forma coerente?”
 
 Essas funções podem ser exercidas por:
+
 - uma única pessoa
 - várias pessoas
 - um time
@@ -92,12 +95,14 @@ Na Empresa Lógica, o foco está na função,
 não no cargo.
 
 Isso significa deixar claro:
+
 - qual é o papel de cada função
 - por que essa função existe
 - quais decisões ela pode tomar
 - quais regras ela precisa respeitar
 
 Essa abordagem garante que o modelo:
+
 - funcione em empresas pequenas ou grandes
 - continue válido mesmo quando pessoas mudam
 - seja entendido por quem chega depois
@@ -111,6 +116,7 @@ Quando a Empresa Lógica está bem definida,
 novas decisões deixam de ser tomadas no escuro.
 
 É possível avaliar, por exemplo:
+
 - essa decisão respeita as regras existentes?
 - ela afeta quais funções da empresa?
 - entra em conflito com decisões anteriores?
@@ -128,6 +134,7 @@ Para a Inteligência Artificial,
 a Empresa Lógica funciona como um mapa da empresa.
 
 Ela fornece:
+
 - contexto claro do negócio
 - limites bem definidos
 - histórico de decisões
@@ -148,6 +155,7 @@ Para evitar interpretações equivocadas,
 é importante reforçar:
 
 A Empresa Lógica:
+
 - não é um software
 - não é um sistema de automação
 - não é um framework de tarefas
@@ -167,6 +175,7 @@ Isso gera confusão
 e enfraquece o próprio conceito.
 
 Esta definição existe para:
+
 - criar um ponto comum de entendimento
 - servir como base para a documentação
 - orientar a aplicação prática do modelo

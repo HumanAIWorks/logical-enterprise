@@ -16,6 +16,7 @@ LLMs não entendem empresas.
 Elas **preveem texto** com base em padrões.
 
 Elas:
+
 - não conhecem a história da empresa
 - não sabem quais decisões já foram tomadas
 - não entendem regras implícitas
@@ -31,6 +32,7 @@ a LLM faz o que sabe fazer melhor:
 ## O problema do contexto implícito
 
 Em empresas, muito do que importa não está escrito:
+
 - “isso não pode ser alterado”
 - “essa decisão já foi tomada”
 - “essa área é responsável por isso”
@@ -56,6 +58,7 @@ Eles ajudam.
 Mas não resolvem a causa.
 
 Prompts:
+
 - descrevem pedidos pontuais
 - não descrevem como a empresa funciona
 - não carregam histórico de decisões
@@ -96,6 +99,7 @@ a LLM tende a ser criativa demais.
 
 Ela sugere boas ideias isoladas,
 mas que:
+
 - entram em conflito com decisões anteriores
 - quebram regras do negócio
 - otimizam uma parte e prejudicam o todo
@@ -116,6 +120,7 @@ Um dos maiores desafios no uso contínuo de LLMs
 é a contradição.
 
 Sem uma referência estável:
+
 - hoje a IA sugere uma coisa
 - amanhã sugere o oposto
 - nenhuma das duas parece errada isoladamente
@@ -123,6 +128,7 @@ Sem uma referência estável:
 A Empresa Lógica funciona como base comum.
 
 Ela permite que:
+
 - respostas sejam consistentes ao longo do tempo
 - decisões anteriores sejam respeitadas
 - exceções sejam registradas quando necessárias
@@ -137,6 +143,7 @@ Ela permite que:
 
 Ela fornece contexto
 para que a LLM:
+
 - apoie o raciocínio humano
 - antecipe impactos
 - levante riscos
@@ -152,6 +159,7 @@ Embora este documento fale de LLMs,
 o benefício da Empresa Lógica não é exclusivo delas.
 
 Quando esse modelo existe:
+
 - pessoas novas entendem a empresa mais rápido
 - decisões ficam mais claras
 - discussões ficam menos subjetivas
@@ -165,6 +173,7 @@ o quanto esse contexto já era necessário.
 ## Em resumo
 
 LLMs precisam da Empresa Lógica porque:
+
 - não entendem contexto implícito
 - não conhecem a empresa por padrão
 - não mantêm coerência sem referência

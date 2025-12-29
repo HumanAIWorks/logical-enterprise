@@ -18,6 +18,7 @@ A Empresa Lógica resolve a **ausência de um modelo lógico explícito**
 sobre como a empresa funciona.
 
 Ela resolve o fato de que:
+
 - decisões existem, mas não são lembradas
 - regras existem, mas não estão claras
 - fluxos existem, mas não estão visíveis
@@ -41,6 +42,7 @@ com a informação que têm naquele momento.
 
 Pessoas competentes fazem o melhor que podem,
 baseadas em:
+
 - experiência pessoal
 - memória do que já foi discutido
 - conversas passadas
@@ -71,6 +73,7 @@ Antes de acelerar,
 é preciso **clarear**.
 
 Ela cria um espaço onde:
+
 - o problema é bem definido
 - o produto é claramente entendido
 - as regras são explícitas
@@ -89,12 +92,14 @@ A Empresa Lógica resolve um problema silencioso:
 a **perda de continuidade**.
 
 Sem ela:
+
 - cada novo projeto reabre discussões antigas
 - decisões precisam ser redescobertas
 - erros se repetem
 - aprendizados se perdem
 
 Com ela:
+
 - decisões ficam registradas
 - regras permanecem acessíveis
 - o passado informa o presente
@@ -112,6 +117,7 @@ Outro ponto central que a Empresa Lógica resolve
 é a dificuldade de comunicação entre áreas.
 
 Quando cada área:
+
 - enxerga apenas sua própria parte
 - interpreta o negócio de forma diferente
 - toma decisões sem considerar o impacto no todo
@@ -124,6 +130,7 @@ mas tornando explícitas as mesmas regras,
 decisões e limites para todos.
 
 Ela torna visível:
+
 - quais regras existem
 - quais decisões já foram tomadas
 - como as áreas se relacionam
@@ -143,6 +150,7 @@ A Empresa Lógica resolve um dos maiores riscos atuais:
 usar IA sem contexto suficiente.
 
 Ela fornece à IA aquilo que normalmente falta:
+
 - entendimento claro do negócio
 - limites bem definidos
 - decisões anteriores acessíveis
@@ -151,11 +159,13 @@ Ela fornece à IA aquilo que normalmente falta:
 
 Com isso,
 a IA deixa de:
+
 - sugerir soluções desconectadas
 - contradizer decisões anteriores
 - otimizar partes quebrando o conjunto
 
 E passa a:
+
 - colaborar com coerência
 - expandir possibilidades
 - antecipar impactos
@@ -171,6 +181,7 @@ não é técnico.
 É humano.
 
 Ela ajuda as pessoas a:
+
 - entenderem melhor o que estão construindo
 - saberem por que fazem o que fazem
 - perceberem o impacto do próprio trabalho
@@ -184,6 +195,7 @@ e fortalece o senso de responsabilidade coletiva.
 ## O que ela não promete (e não precisa prometer)
 
 A Empresa Lógica não promete:
+
 - eliminar erros
 - garantir sucesso
 - substituir pessoas
@@ -197,6 +209,7 @@ Ela promete algo mais fundamental:
 ## Em essência
 
 A Empresa Lógica resolve:
+
 - falta de clareza
 - perda de contexto
 - repetição de erros

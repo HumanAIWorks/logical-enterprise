@@ -24,6 +24,7 @@ Mas a forma como as empresas **pensam e comunicam**
 não evoluiu no mesmo ritmo.
 
 O resultado é um descompasso crescente:
+
 - decisões são tomadas mais rápido do que podem ser compreendidas
 - produtos evoluem mais rápido do que podem ser explicados
 - mudanças acontecem mais rápido do que podem ser absorvidas
@@ -42,6 +43,7 @@ Na prática, o problema costuma ser outro:
 **velocidade sem alinhamento**.
 
 Quando o entendimento não acompanha a execução:
+
 - retrabalho se torna normal
 - decisões são revisitadas sem critério
 - conflitos entre áreas aumentam
@@ -82,6 +84,7 @@ Quando a lógica da empresa não está explícita,
 ela passa a depender excessivamente de indivíduos.
 
 Algumas pessoas se tornam:
+
 - pontos únicos de conhecimento
 - intérpretes do passado
 - guardiões informais de decisões
@@ -102,6 +105,7 @@ ela perde **memória**.
 Muitas empresas até tentam documentar.
 
 O problema é que a documentação:
+
 - nasce como requisito inicial
 - não evolui com o produto
 - não registra decisões
@@ -127,6 +131,7 @@ como funcionam.
 
 Sem um modelo claro da empresa,
 a IA recebe:
+
 - pedidos vagos
 - contextos incompletos
 - expectativas irreais
@@ -143,6 +148,7 @@ E não é falta de pessoas competentes.
 
 O problema é a ausência de um **modelo lógico explícito**
 que conecte:
+
 - decisões
 - produtos
 - áreas
@@ -158,6 +164,7 @@ se torna frágil.
 ## Uma tensão que não pode mais ser ignorada
 
 Hoje, as empresas vivem uma tensão constante:
+
 - precisam decidir mais rápido
 - precisam errar menos
 - precisam integrar mais áreas
@@ -176,6 +183,7 @@ A Empresa Lógica surge quando essa tensão
 deixa de ser aceitável.
 
 Quando fica claro que:
+
 - mais ferramentas não resolvem
 - mais velocidade não resolve
 - mais pessoas não resolvem

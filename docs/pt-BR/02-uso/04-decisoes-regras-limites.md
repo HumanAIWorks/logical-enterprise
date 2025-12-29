@@ -4,6 +4,7 @@ Decisões, regras e limites são
 o que mantém a Empresa Lógica coerente ao longo do tempo.
 
 Sem eles explícitos:
+
 - o contexto se perde
 - decisões se contradizem
 - exceções viram padrão
@@ -34,11 +35,13 @@ e decisões frágeis.
 ## O que é uma decisão
 
 Uma decisão existe quando:
+
 - havia mais de um caminho possível
 - uma escolha foi feita
 - essa escolha impacta o futuro
 
 Decisões importantes:
+
 - definem prioridades
 - criam ou removem opções
 - afetam mais de uma função
@@ -52,11 +55,13 @@ precisam ser registradas.
 ## O que é uma regra
 
 Regras existem para:
+
 - orientar decisões recorrentes
 - reduzir ambiguidade
 - evitar conflitos
 
 Uma regra responde a perguntas como:
+
 - “em que condições algo pode ser feito?”
 - “o que deve ser considerado?”
 - “qual critério usar para decidir?”
@@ -71,11 +76,13 @@ Elas **orientam** decisões.
 Limites definem o que **não pode** acontecer.
 
 Eles existem para:
+
 - proteger o negócio
 - preservar coerência
 - evitar decisões que quebram o todo
 
 Exemplos de limites:
+
 - algo que não pode ser alterado
 - algo que não pode ser oferecido
 - algo que exige exceção formal
@@ -122,6 +129,7 @@ O problema não é a exceção.
 É a exceção **não registrada**.
 
 Quando uma exceção ocorrer:
+
 - deixe claro que é uma exceção
 - registre o motivo
 - defina se ela é temporária ou permanente
@@ -154,6 +162,7 @@ decisões, regras e limites
 funcionam como trilhos.
 
 Eles evitam que a IA:
+
 - sugira algo já descartado
 - quebre regras do negócio
 - ignore limites importantes
@@ -167,6 +176,7 @@ com mais consistência.
 ## Em essência
 
 Na Empresa Lógica:
+
 - decisões são escolhas registradas
 - regras orientam escolhas
 - limites protegem o todo
