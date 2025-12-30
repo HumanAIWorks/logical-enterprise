@@ -28,8 +28,7 @@ Mas, com a popularização das LLMs, ele se tornou impossível de ignorar.
 
 ## O verdadeiro problema não é a IA
 
-**As pessoas esperam que a Inteligência Artificial gere soluções completas e complexas,
-sem fornecer o contexto necessário.**
+**As pessoas esperam que a Inteligência Artificial gere soluções completas e complexas, sem fornecer o contexto necessário.**
 
 Isso não acontece apenas por limitações da tecnologia.
 A raiz do problema é antiga e bem conhecida: **a falha na comunicação**.
@@ -38,12 +37,9 @@ A raiz do problema é antiga e bem conhecida: **a falha na comunicação**.
 
 Quem pede algo geralmente tem uma ideia — às vezes vaga, às vezes muito clara —
 do que espera como resultado.
-Mas, ao tentar se comunicar com quem irá realmente construir,
-essa ideia se perde.
+Mas, ao tentar se comunicar com quem irá realmente construir, essa ideia se perde.
 
-Por falta de clareza, por comunicação ineficiente,
-ou simplesmente por pressupostos não ditos,
-detalhes fundamentais deixam de ser compartilhados.
+Por falta de clareza, por comunicação ineficiente, ou simplesmente por pressupostos não ditos, detalhes fundamentais deixam de ser compartilhados.
 
 Muitas vezes isso ocorre:
 
@@ -66,22 +62,16 @@ Não fica claro:
 
 O resultado é previsível.
 
-Mesmo lidando com pessoas inteligentes, criativas,
-com amplo conhecimento — ou até com profundo conhecimento técnico —
-a falta de visão do negócio como um todo
-torna extremamente difícil a criação de soluções complexas e coerentes.
+Mesmo lidando com pessoas inteligentes, criativas, com amplo conhecimento — ou até com profundo conhecimento técnico — a falta de visão do negócio como um todo torna extremamente difícil a criação de soluções complexas e coerentes.
 
-Sem o devido contexto,
-quem executa precisa **interpretar**.
+Sem o devido contexto, quem executa precisa **interpretar**.
 E toda interpretação adiciona ruído.
 
 ---
 
 ## Quando esse padrão é aplicado à IA
 
-Quando esse mesmo padrão de comunicação incompleta
-é aplicado à Inteligência Artificial,
-o problema não desaparece — ele se **amplifica**.
+Quando esse mesmo padrão de comunicação incompleta é aplicado à Inteligência Artificial, o problema não desaparece — ele se **amplifica**.
 
 LLMs não entendem intenções implícitas.
 Elas não conhecem a empresa.
@@ -99,8 +89,7 @@ E suposições raramente levam ao resultado esperado.
 
 A Empresa Lógica surge como uma resposta direta a esse problema.
 
-Ela existe para tornar explícito
-**como a empresa pensa, opera e decide**.
+Ela existe para tornar explícito **como a empresa pensa, opera e decide**.
 
 Não como organograma.  
 Não como cargos.  
@@ -115,12 +104,9 @@ Mas como um **modelo lógico de funcionamento**, composto por:
 - decisões registradas
 - padrões e critérios explícitos
 
-Quando isso está documentado,
-a empresa passa a ter uma **fonte de verdade lógica**.
+Quando isso está documentado, a empresa passa a ter uma **fonte de verdade lógica**.
 
-E quando a IA tem acesso a essa fonte,
-ela deixa de improvisar
-e passa a **colaborar com coerência**.
+E quando a IA tem acesso a essa fonte, ela deixa de improvisar e passa a **colaborar com coerência**.
 
 ---
 
@@ -134,11 +120,9 @@ A Empresa Lógica parte de um princípio fundamental:
 LLMs são generalistas.
 Isso é uma vantagem imensa.
 
-Mas, sem direção,
-essa generalidade se transforma em inconsistência.
+Mas, sem direção, essa generalidade se transforma em inconsistência.
 
-Com a Empresa Lógica,
-a IA pode atuar como:
+Com a Empresa Lógica, a IA pode atuar como:
 
 - parceira de raciocínio
 - exploradora de alternativas
@@ -161,16 +145,12 @@ Ela funciona:
 - para times pequenos
 - para empresas com milhares de pessoas
 
-A diferença não está no modelo,
-mas no **nível de detalhamento**.
+A diferença não está no modelo, mas no **nível de detalhamento**.
 
-Toda empresa que cria produtos
-passa pelas mesmas etapas lógicas.
-O que muda é o quanto isso está
-explícito ou implícito.
+Toda empresa que cria produtos passa pelas mesmas etapas lógicas.
+O que muda é o quanto isso está explícito ou implícito.
 
-A Empresa Lógica existe para tornar o implícito
-**visível, compartilhável e evolutivo**.
+A Empresa Lógica existe para tornar o implícito **visível, compartilhável e evolutivo**.
 
 ---
 
@@ -201,10 +181,7 @@ A Empresa Lógica:
 
 Ela é um **modelo de entendimento**.
 
-Um modelo que permite que pessoas e IA
-trabalhem juntas com clareza,
-consistência
-e consciência do impacto das decisões.
+Um modelo que permite que pessoas e IA trabalhem juntas com clareza, consistência e consciência do impacto das decisões.
 
 ---
 
