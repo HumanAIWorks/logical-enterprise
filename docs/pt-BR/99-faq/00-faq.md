@@ -12,6 +12,8 @@ A Empresa Lógica é uma forma estruturada de tornar explícito como uma empresa
 
 Ela organiza funções, decisões, regras, limites e princípios de forma lógica e documentada, permitindo que pessoas e Inteligência Artificial compreendam o contexto da empresa de maneira consistente.
 
+Veja: [00 - Definição da Empresa Lógica](../01-conceito/00-definicao.md).
+
 ---
 
 ## A Empresa Lógica é uma metodologia?
@@ -22,6 +24,8 @@ Ela não é um método fechado, não define etapas obrigatórias nem impõe ferr
 
 A Empresa Lógica é um modelo de pensamento e organização lógica que pode ser adaptado à realidade de cada empresa.
 
+Veja: [01 - Fronteiras da Empresa Lógica](../01-conceito/01-fronteiras.md) e [02 - O Que a Empresa Lógica Não É](../01-conceito/02-o-que-nao-e.md).
+
 ---
 
 ## A Empresa Lógica é um framework de gestão?
@@ -31,6 +35,8 @@ Não no sentido tradicional.
 Ela não substitui frameworks de gestão, ágeis ou de produto.
 
 Ela atua em um nível anterior, organizando o raciocínio da empresa para que qualquer framework possa ser usado com mais clareza e coerência.
+
+Veja: [02 - O Que a Empresa Lógica Não É](../01-conceito/02-o-que-nao-e.md).
 
 ---
 
@@ -49,6 +55,8 @@ Ela pode ser usada por:
 
 O que muda é o nível de detalhamento, não o conceito.
 
+Veja: [07 - Adaptação por Tipo de Empresa](../02-uso/07-adaptacao-por-tipo.md) e [00 - Manifesto da Empresa Lógica](../00-introducao/00-manifesto.md).
+
 ---
 
 ## É preciso documentar tudo desde o início?
@@ -65,6 +73,8 @@ Uma empresa pode:
 
 Isso é uma escolha estratégica, não uma exigência do modelo.
 
+Veja: [01 - Como Começar](../02-uso/01-como-comecar.md) e [05 - Documentação Viva e Sustentável](../02-uso/05-documentacao-viva.md).
+
 ---
 
 ## A Empresa Lógica torna a empresa mais lenta?
@@ -75,6 +85,8 @@ Ela evita retrabalho, conflitos e decisões contraditórias.
 
 O tempo investido em clareza reduz o tempo perdido com correções, desalinhamentos e reexplicações constantes.
 
+Veja: [00 - Quando Usar a Empresa Lógica](../02-uso/00-quando-usar.md) e [04 - Princípios da Empresa Lógica](../01-conceito/04-principios.md).
+
 ---
 
 ## Isso não vira burocracia?
@@ -84,6 +96,8 @@ Não, se usada corretamente.
 A Empresa Lógica não existe para criar documentos desnecessários, mas para registrar o que já existe de forma implícita.
 
 Quando vira burocracia, geralmente é porque está sendo usada como controle, não como clareza.
+
+Veja: [05 - Documentação Viva e Sustentável](../02-uso/05-documentacao-viva.md) e [04 - Princípios da Empresa Lógica](../01-conceito/04-principios.md).
 
 ---
 
@@ -97,6 +111,8 @@ Ela organiza o contexto para que decisões humanas sejam melhores, mais conscien
 Ela amplia a capacidade de quem decide, empodera o trabalho humano e reforça que a IA deve apoiar, não substituir.
 A Empresa Lógica defende e difunde o trabalho humano potencializado pelo uso correto da IA.
 
+Veja: [04 - Princípios da Empresa Lógica](../01-conceito/04-principios.md) e [00 - Definição da Empresa Lógica](../01-conceito/00-definicao.md).
+
 ---
 
 ## A Empresa Lógica substitui desenvolvedores ou outras áreas?
@@ -107,6 +123,8 @@ Ela não substitui profissionais nem automatiza julgamento humano.
 
 Ela torna decisões, regras e limites mais claros para que cada área trabalhe com mais contexto e menos ruído.
 Isso amplia a capacidade das pessoas e da IA como apoio, não como substituição.
+
+Veja: [02 - O Que a Empresa Lógica Não É](../01-conceito/02-o-que-nao-e.md) e [04 - Princípios da Empresa Lógica](../01-conceito/04-principios.md).
 
 ---
 
@@ -123,6 +141,8 @@ Com a Empresa Lógica, a IA passa a:
 
 Sem a Empresa Lógica, a IA atua de forma genérica e desconectada.
 
+Veja: [03 - Por Que LLMs Precisam da Empresa Lógica](../01-conceito/03-por-que-llms-precisam-disso.md) e [04 - Playbook de Uso de IA](../04-playbook/04-playbook-uso-de-ia.md).
+
 ---
 
 ## A IA passa a mandar na empresa?
@@ -132,6 +152,8 @@ Não.
 A Empresa Lógica não transforma a IA em decisora.
 
 Ela garante que a IA tenha direção, contexto e limites claros para apoiar pessoas, não para substituí-las.
+
+Veja: [04 - Princípios da Empresa Lógica](../01-conceito/04-principios.md) e [04 - Playbook de Uso de IA](../04-playbook/04-playbook-uso-de-ia.md).
 
 ---
 
@@ -143,6 +165,8 @@ A Empresa Lógica já traz valor apenas para pessoas, ao organizar entendimento,
 
 A IA potencializa esse valor, mas não é obrigatória.
 
+Veja: [01 - Origem da Empresa Lógica](../00-introducao/01-origem.md) e [00 - Quando Usar a Empresa Lógica](../02-uso/00-quando-usar.md).
+
 ---
 
 ## A Empresa Lógica é um software?
@@ -152,6 +176,8 @@ Não.
 Ela não depende de nenhuma ferramenta específica.
 
 Pode ser implementada com documentos simples, arquivos de texto, ferramentas de gestão ou sistemas próprios.
+
+Veja: [02 - O Que a Empresa Lógica Não É](../01-conceito/02-o-que-nao-e.md).
 
 ---
 
@@ -163,6 +189,8 @@ A adaptação faz parte do conceito.
 
 O que não deve ser feito é distorcer os princípios ou transformar o modelo em algo rígido e prescritivo.
 
+Veja: [02 - Adaptação e Reuso](../05-contribuicao/02-adaptacao-e-reuso.md).
+
 ---
 
 ## Posso usar isso comercialmente?
@@ -172,6 +200,8 @@ Sim.
 A Empresa Lógica pode ser usada em consultorias, treinamentos, produtos e serviços.
 
 Ela é licenciada sob a GNU Affero General Public License, versão 3 (AGPLv3).
+
+Veja: [03 - Licença e Uso Legal](../05-contribuicao/03-licenca-e-uso-legal.md).
 
 ---
 
@@ -183,6 +213,8 @@ A obrigação de transparência se aplica apenas às partes derivadas diretament
 
 Negócio, estratégia e dados internos não precisam ser expostos.
 
+Veja: [03 - Licença e Uso Legal](../05-contribuicao/03-licenca-e-uso-legal.md).
+
 ---
 
 ## A Empresa Lógica garante sucesso?
@@ -192,6 +224,8 @@ Não.
 Ela não elimina erros, riscos ou incertezas.
 
 Ela aumenta clareza, reduz confusão e melhora a qualidade das decisões, mas não substitui responsabilidade, julgamento humano ou execução.
+
+Veja: [03 - O Que a Empresa Lógica Resolve](../00-introducao/03-o-que-ela-resolve.md) e [02 - O Que a Empresa Lógica Não É](../01-conceito/02-o-que-nao-e.md).
 
 ---
 
@@ -205,6 +239,8 @@ O melhor ponto de partida é identificar:
 
 A partir disso, comece pequeno ou amplo, conforme fizer sentido para sua realidade.
 
+Veja: [00 - Quando Usar a Empresa Lógica](../02-uso/00-quando-usar.md) e [01 - Como Começar](../02-uso/01-como-comecar.md).
+
 ---
 
 ## Onde posso contribuir ou aprender mais?
@@ -212,6 +248,8 @@ A partir disso, comece pequeno ou amplo, conforme fizer sentido para sua realida
 A documentação está aberta para leitura, uso e contribuição.
 
 Consulte a seção **Contribuição** para entender como colaborar de forma alinhada ao conceito.
+
+Veja: [00 - Introdução à Contribuição](../05-contribuicao/00-introducao.md) e [01 - Como Contribuir](../05-contribuicao/01-como-contribuir.md).
 
 ---
 
