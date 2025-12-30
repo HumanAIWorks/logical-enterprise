@@ -112,6 +112,7 @@ Ela pode ser:
 - usada como base para metodologias internas.
 
 O uso comercial não exige autorização prévia, desde que respeite a licença e seus termos.
+Para detalhes, veja: [Licença e Uso Legal](03-licenca-e-uso-legal.md).
 
 ---
 

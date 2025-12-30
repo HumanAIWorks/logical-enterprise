@@ -102,4 +102,5 @@ A licença da Empresa Lógica existe para:
 
 - permitir uso e adaptação livres;
 - viabilizar uso comercial;
-- exigir transparência
+- exigir transparência quando usada como serviço;
+- proteger a Empresa Lógica como bem comum.
