@@ -1,6 +1,6 @@
-English | [Português (pt-BR)](/docs/pt-BR/README.md)
-
 # Logical Enterprise
+
+English | [Português (pt-BR)](/docs/pt-BR/README.md)
 
 A model to make explicit how a company works and enable the conscious use of Artificial Intelligence.
 

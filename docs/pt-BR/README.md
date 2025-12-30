@@ -1,6 +1,6 @@
-Português (pt-BR) | [English](/README.md)
-
 # Empresa Lógica
+
+Português (pt-BR) | [English](/README.md)
 
 Um modelo para tornar explícito como uma empresa funciona e permitir o uso consciente da Inteligência Artificial.
 
