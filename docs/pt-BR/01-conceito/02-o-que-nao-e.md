@@ -80,6 +80,8 @@ Uma função pode ser exercida por:
 
 Ela não executa processos. Ela não toma decisões. Ela não substitui julgamento humano.
 
+Automação pode executar funções já definidas; ela não substitui o modelo.
+
 Automação pode acontecer depois, mas apenas **depois que a lógica está clara**.
 
 Automatizar sem entendimento apenas acelera erros.

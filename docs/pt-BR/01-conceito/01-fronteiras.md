@@ -39,6 +39,8 @@ Ela atua:
 - quando algo novo precisa ser criado
 - quando algo existente precisa ser alterado
 
+Aqui, "durante" significa no momento de decidir e planejar — não na implementação.
+
 Ela não faz o trabalho. Ela **orienta como o trabalho deve ser pensado**.
 
 ---

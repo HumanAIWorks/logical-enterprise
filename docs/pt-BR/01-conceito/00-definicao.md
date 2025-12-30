@@ -25,7 +25,7 @@ A Empresa Lógica é a camada onde ficam registradas, de forma clara e acessíve
 - quais limites não podem ser ultrapassados
 - quais decisões já foram tomadas e por qual motivo
 
-Essa camada funciona como a **fonte de verdade da empresa**.
+Essa camada funciona como a **fonte de verdade lógica da empresa**.
 
 Ela não executa trabalho. Ela **orienta o trabalho**.
 
@@ -138,6 +138,9 @@ A Empresa Lógica:
 - não substitui pessoas
 
 Ela é um **modelo de entendimento da empresa**.
+
+Para mais detalhes, veja:
+[O Que a Empresa Lógica Não É](02-o-que-nao-e.md)
 
 ---
 

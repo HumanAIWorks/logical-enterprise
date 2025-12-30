@@ -4,6 +4,8 @@ A Empresa Lógica não se sustenta apenas por definição. Ela se mantém funcio
 
 Estes princípios não são regras rígidas. São orientações práticas para evitar confusão, perda de contexto e decisões desconectadas.
 
+Princípios orientam; regras são diretrizes específicas de cada empresa.
+
 ---
 
 ## Princípio 1 — Clareza antes da execução
@@ -122,7 +124,7 @@ A decisão final continua sendo humana.
 
 ---
 
-## Princípio 9 — Documentação é fonte de verdade
+## Princípio 9 — Documentação é fonte de verdade lógica
 
 Quando existe conflito entre:
 

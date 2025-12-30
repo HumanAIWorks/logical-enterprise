@@ -4,6 +4,8 @@ As LLMs são poderosas. Mas elas não funcionam bem sem contexto.
 
 Este documento existe para explicar, de forma simples e objetiva, **por que modelos de linguagem precisam da Empresa Lógica para gerar resultados consistentes e úteis**.
 
+Aqui, LLMs são o tipo de IA em foco.
+
 ---
 
 ## O que LLMs realmente fazem
