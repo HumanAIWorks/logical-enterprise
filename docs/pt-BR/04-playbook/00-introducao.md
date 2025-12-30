@@ -1,7 +1,6 @@
 # Introdução aos Playbooks da Empresa Lógica
 
-Até aqui, a Empresa Lógica foi apresentada como conceito, uso e modelos.  
-A partir deste ponto, entramos nos **playbooks**.
+Até aqui, a Empresa Lógica foi apresentada como conceito, uso e modelos. A partir deste ponto, entramos nos **playbooks**.
 
 Este documento existe para explicar o papel dos playbooks, quando usá-los e o que esperar deles.
 
@@ -69,8 +68,7 @@ Se a situação é única, um playbook pode não ser necessário.
 
 Modelos explicam **como pensar**. Playbooks ajudam a **como aplicar**.
 
-Um playbook sempre se apoia em um ou mais modelos.  
-Se um playbook ignora os modelos, ele quebra a lógica da empresa.
+Um playbook sempre se apoia em um ou mais modelos. Se um playbook ignora os modelos, ele quebra a lógica da empresa.
 
 ---
 

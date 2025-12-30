@@ -17,8 +17,7 @@ Adaptar significa:
 - aplicar os modelos e playbooks de forma proporcional;
 - respeitar a maturidade e a cultura da empresa.
 
-A lógica permanece.  
-O contexto muda.
+A lógica permanece. O contexto muda.
 
 ---
 

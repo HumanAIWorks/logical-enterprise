@@ -1,22 +1,16 @@
 # Quando Usar a Empresa Lógica
 
-A Empresa Lógica não precisa ser usada o tempo todo
-nem para tudo.
+A Empresa Lógica não precisa ser usada o tempo todo nem para tudo.
 
-Ela se torna especialmente valiosa
-em situações onde **falta clareza**
-e **o risco de decisões desconectadas é alto**.
+Ela se torna especialmente valiosa em situações onde **falta clareza** e **o risco de decisões desconectadas é alto**.
 
-Este documento existe para ajudar a identificar
-**quando faz sentido usar a Empresa Lógica**
-e quando ela não é necessária.
+Este documento existe para ajudar a identificar **quando faz sentido usar a Empresa Lógica** e quando ela não é necessária.
 
 ---
 
 ## Quando a Empresa Lógica é necessária
 
-A Empresa Lógica deve ser usada sempre que
-o entendimento da empresa deixa de ser óbvio.
+A Empresa Lógica deve ser usada sempre que o entendimento da empresa deixa de ser óbvio.
 
 Alguns sinais claros disso são:
 
@@ -27,9 +21,7 @@ Alguns sinais claros disso são:
 - a IA gera respostas inconsistentes
 - mudanças geram efeitos colaterais inesperados
 
-Quando esses sinais aparecem,
-o problema geralmente não é técnico.
-É **falta de clareza estrutural**.
+Quando esses sinais aparecem, o problema geralmente não é técnico. É **falta de clareza estrutural**.
 
 ---
 
@@ -50,15 +42,13 @@ A Empresa Lógica ajuda a:
 - registrar escolhas importantes
 - manter coerência desde o início
 
-Quanto mais cedo ela é usada,
-menor o custo de corrigir erros depois.
+Quanto mais cedo ela é usada, menor o custo de corrigir erros depois.
 
 ---
 
 ## Uso em empresas que ainda não existem formalmente
 
-Mesmo quando a empresa ainda é apenas uma ideia,
-as decisões já começam a ser tomadas.
+Mesmo quando a empresa ainda é apenas uma ideia, as decisões já começam a ser tomadas.
 
 A Empresa Lógica ajuda a:
 
@@ -67,15 +57,13 @@ A Empresa Lógica ajuda a:
 - evitar decisões contraditórias logo na origem
 - criar uma base sólida para crescer
 
-Ela não exige estrutura grande.
-Exige apenas **clareza de pensamento**.
+Ela não exige estrutura grande. Exige apenas **clareza de pensamento**.
 
 ---
 
 ## Uso em empresas já em operação
 
-Em empresas existentes,
-a Empresa Lógica ajuda quando:
+Em empresas existentes, a Empresa Lógica ajuda quando:
 
 - o negócio cresceu rápido
 - processos foram criados de forma reativa
@@ -83,17 +71,13 @@ a Empresa Lógica ajuda quando:
 - o conhecimento se concentrou em poucas pessoas
 - a documentação não acompanha a realidade
 
-Nesses casos,
-ela funciona como uma forma de
-**organizar o que já existe**
-sem precisar reinventar tudo.
+Nesses casos, ela funciona como uma forma de **organizar o que já existe** sem precisar reinventar tudo.
 
 ---
 
 ## Uso com Inteligência Artificial
 
-A Empresa Lógica deve ser usada
-sempre que a IA for chamada para:
+A Empresa Lógica deve ser usada sempre que a IA for chamada para:
 
 - apoiar decisões
 - sugerir soluções
@@ -101,12 +85,9 @@ sempre que a IA for chamada para:
 - gerar ideias de produto
 - ajudar na evolução de sistemas
 
-Sem esse contexto,
-a IA trabalha de forma genérica.
+Sem esse contexto, a IA trabalha de forma genérica.
 
-Com a Empresa Lógica,
-ela passa a trabalhar
-**dentro da lógica do negócio**.
+Com a Empresa Lógica, ela passa a trabalhar **dentro da lógica do negócio**.
 
 ---
 
@@ -121,15 +102,13 @@ A Empresa Lógica pode ser dispensável quando:
 - não existe risco de repetição futura
 - o contexto é totalmente óbvio
 
-Forçar o uso nesses casos
-pode gerar atrito desnecessário.
+Forçar o uso nesses casos pode gerar atrito desnecessário.
 
 ---
 
 ## Um uso progressivo, não obrigatório
 
-A Empresa Lógica não precisa ser aplicada
-de uma vez só.
+A Empresa Lógica não precisa ser aplicada de uma vez só.
 
 Ela pode começar:
 
@@ -137,8 +116,7 @@ Ela pode começar:
 - com decisões mais relevantes registradas
 - com regras básicas explicitadas
 
-Com o tempo,
-o modelo evolui junto com a empresa.
+Com o tempo, o modelo evolui junto com a empresa.
 
 ---
 
@@ -153,15 +131,12 @@ Use a Empresa Lógica quando:
 
 Não use quando isso não é necessário.
 
-Saber **quando usar**
-é parte do uso correto.
+Saber **quando usar** é parte do uso correto.
 
 ---
 
 ## 👉 Próxima leitura recomendada
 
-Agora que está claro **quando usar a Empresa Lógica**,
-o próximo passo é entender
-**como começar a usá-la na prática**.
+Agora que está claro **quando usar a Empresa Lógica**, o próximo passo é entender **como começar a usá-la na prática**.
 
 ➡️ [01 – Como Começar](01-como-comecar.md)

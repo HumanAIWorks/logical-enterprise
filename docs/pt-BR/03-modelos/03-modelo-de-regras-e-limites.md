@@ -26,8 +26,7 @@ Embora relacionados, regra e limite não são a mesma coisa.
 - **Regra**: orienta decisões
 - **Limite**: bloqueia decisões
 
-Regras dizem *como decidir*.
-Limites dizem *até onde é possível ir*.
+Regras dizem *como decidir*. Limites dizem *até onde é possível ir*.
 
 ---
 
@@ -68,8 +67,7 @@ Explique de forma direta:
 - o que a regra orienta
 - ou o que o limite impede
 
-Evite textos longos.
-Clareza é o mais importante.
+Evite textos longos. Clareza é o mais importante.
 
 ---
 
@@ -109,11 +107,11 @@ Exceções não registradas quebram o modelo.
 
 ## Exemplos simples (genéricos)
 
-**Regra:** Escopo Inicial Reduzido  
+**Regra:** Escopo Inicial Reduzido
 
 - Define que o produto inicial deve resolver apenas o problema principal.
 
-**Limite:** Segurança de Dados  
+**Limite:** Segurança de Dados
 
 - Nenhuma decisão pode comprometer dados sensíveis de clientes.
 
@@ -168,8 +166,7 @@ O Modelo de Regras e Limites serve para:
 - reduzir conflitos
 - apoiar pessoas e IA
 
-Regras orientam.
-Limites protegem.
+Regras orientam. Limites protegem.
 
 ---
 

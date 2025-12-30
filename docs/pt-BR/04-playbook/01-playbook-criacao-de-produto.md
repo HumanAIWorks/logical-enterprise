@@ -164,8 +164,7 @@ Este playbook serve para:
 - manter coerência entre decisões;
 - apoiar pessoas e IA no mesmo contexto.
 
-Criar um produto não precisa ser caótico.  
-Mas também não precisa ser engessado.
+Criar um produto não precisa ser caótico. Mas também não precisa ser engessado.
 
 ---
 

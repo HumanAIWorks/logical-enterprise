@@ -2,8 +2,7 @@
 
 Este playbook mostra como usar a Empresa Lógica para lidar com **conflitos reais**, sem personalizar o problema e sem transformar decisões em disputas.
 
-Ele não existe para “ganhar discussões”.  
-Ele existe para **restaurar clareza**.
+Ele não existe para “ganhar discussões”. Ele existe para **restaurar clareza**.
 
 ---
 
@@ -47,8 +46,7 @@ O raciocínio geral é:
 4. Avaliar impactos das opções.
 5. Registrar a resolução.
 
-Isso não elimina conflitos.  
-Torna-os resolvíveis.
+Isso não elimina conflitos. Torna-os resolvíveis.
 
 ---
 
@@ -150,8 +148,7 @@ Este playbook serve para:
 - preservar coerência do todo;
 - transformar discordância em decisão.
 
-Conflito não é falha.  
-Falta de estrutura é.
+Conflito não é falha. Falta de estrutura é.
 
 ---
 

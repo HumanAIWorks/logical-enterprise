@@ -65,8 +65,7 @@ Adaptar a Empresa Lógica significa:
 - definir quais playbooks fazem sentido;
 - respeitar cultura, maturidade e momento.
 
-Adaptar não é quebrar o conceito.
-É aplicá-lo de forma consciente.
+Adaptar não é quebrar o conceito. É aplicá-lo de forma consciente.
 
 ---
 

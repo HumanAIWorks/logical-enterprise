@@ -30,8 +30,7 @@ Sem funções claras:
 - decisões ficam soltas
 - regras perdem referência
 
-O **Modelo de Funções**
-é a base de todos os outros.
+O **Modelo de Funções** é a base de todos os outros.
 
 ---
 
@@ -42,8 +41,7 @@ Toda decisão:
 - é tomada por uma ou mais funções
 - precisa respeitar seus limites
 
-O **Modelo de Decisão**
-registra escolhas importantes e mantém o contexto ao longo do tempo.
+O **Modelo de Decisão** registra escolhas importantes e mantém o contexto ao longo do tempo.
 
 Sem ele, decisões se repetem ou se contradizem.
 
@@ -149,8 +147,7 @@ Os modelos da Empresa Lógica:
 - funcionam juntos
 - apoiam pessoas e IA
 
-Separados, ajudam.
-Conectados, sustentam o todo.
+Separados, ajudam. Conectados, sustentam o todo.
 
 ---
 

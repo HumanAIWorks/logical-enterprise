@@ -92,8 +92,7 @@ Alguns bons momentos para revisão:
 - quando a IA começa a gerar respostas incoerentes;
 - quando regras deixam de fazer sentido.
 
-Revisar não é desfazer.  
-É ajustar à realidade atual.
+Revisar não é desfazer. É ajustar à realidade atual.
 
 ---
 

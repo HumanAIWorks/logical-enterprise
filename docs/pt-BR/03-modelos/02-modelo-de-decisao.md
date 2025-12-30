@@ -77,8 +77,7 @@ Descreva claramente:
 - o que foi decidido
 - o que passa a valer a partir disso
 
-Evite ambiguidades.
-Uma boa decisão registrada não deixa espaço para interpretação.
+Evite ambiguidades. Uma boa decisão registrada não deixa espaço para interpretação.
 
 ---
 
@@ -112,8 +111,7 @@ Liste impactos esperados:
 - em produtos ou serviços
 - em outras decisões
 
-Não é previsão perfeita.
-É consciência de impacto.
+Não é previsão perfeita. É consciência de impacto.
 
 ---
 

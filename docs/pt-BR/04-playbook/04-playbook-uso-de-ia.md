@@ -161,8 +161,7 @@ Este playbook serve para:
 - alinhar IA à lógica da empresa;
 - apoiar decisões humanas.
 
-A IA amplia capacidade.  
-A responsabilidade continua humana.
+A IA amplia capacidade. A responsabilidade continua humana.
 
 ---
 

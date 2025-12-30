@@ -58,8 +58,7 @@ Evite contribuições que:
 - introduzam jargões desnecessários;
 - tentem “fechar” o conceito em uma metodologia única.
 
-A Empresa Lógica não busca padronizar empresas.  
-Ela busca **organizar o raciocínio**.
+A Empresa Lógica não busca padronizar empresas. Ela busca **organizar o raciocínio**.
 
 ---
 

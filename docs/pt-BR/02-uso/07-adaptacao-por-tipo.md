@@ -1,28 +1,18 @@
 # Adaptação por Tipo de Empresa
 
-A Empresa Lógica não depende
-do tamanho da empresa,
-do número de pessoas
-ou do nível de maturidade.
+A Empresa Lógica não depende do tamanho da empresa, do número de pessoas ou do nível de maturidade.
 
-O que muda não é o modelo.
-O que muda é **o nível de detalhe**
-e **o momento em que ele é aplicado**.
+O que muda não é o modelo. O que muda é **o nível de detalhe** e **o momento em que ele é aplicado**.
 
-Este documento mostra
-como a Empresa Lógica se adapta
-a diferentes tipos de empresa
-sem perder sua essência.
+Este documento mostra como a Empresa Lógica se adapta a diferentes tipos de empresa sem perder sua essência.
 
 ---
 
 ## Empresas em fase de ideia ou início
 
-A empresa ainda não existe formalmente,
-ou está dando os primeiros passos.
+A empresa ainda não existe formalmente, ou está dando os primeiros passos.
 
-As decisões começam cedo,
-mesmo sem que as pessoas percebam:
+As decisões começam cedo, mesmo sem que as pessoas percebam:
 
 - o que será criado
 - para quem
@@ -36,19 +26,15 @@ mesmo sem que as pessoas percebam:
 - evita decisões contraditórias na origem
 - cria base para crescimento futuro
 
-Aqui, a Empresa Lógica
-funciona como **estrutura de pensamento**.
+Aqui, a Empresa Lógica funciona como **estrutura de pensamento**.
 
 ---
 
 ## Solo founders
 
-Uma única pessoa exerce várias funções.
-Decide tudo.
-Executa tudo.
+Uma única pessoa exerce várias funções. Decide tudo. Executa tudo.
 
-O risco não é a falta de capacidade,
-mas a sobrecarga e a perda de clareza.
+O risco não é a falta de capacidade, mas a sobrecarga e a perda de clareza.
 
 ### Como a Empresa Lógica se aplica a solo founders
 
@@ -57,16 +43,13 @@ mas a sobrecarga e a perda de clareza.
 - evita decisões impulsivas
 - cria memória das escolhas feitas
 
-A Empresa Lógica vira
-um apoio constante para decidir melhor.
+A Empresa Lógica vira um apoio constante para decidir melhor.
 
 ---
 
 ## Times pequenos
 
-O time começa a crescer.
-Funções se distribuem.
-Decisões se multiplicam.
+O time começa a crescer. Funções se distribuem. Decisões se multiplicam.
 
 O risco passa a ser:
 
@@ -94,8 +77,7 @@ A empresa já tem:
 - pessoas
 - histórico de decisões
 
-Mas muito disso está implícito
-ou concentrado em poucas pessoas.
+Mas muito disso está implícito ou concentrado em poucas pessoas.
 
 ### Como a Empresa Lógica se aplica a empresas em crescimento ou já estabelecidas
 
@@ -104,16 +86,13 @@ ou concentrado em poucas pessoas.
 - preserva o conhecimento ao longo do tempo
 - reduz a dependência de indivíduos específicos
 
-A Empresa Lógica ajuda
-a empresa a **se entender melhor**.
+A Empresa Lógica ajuda a empresa a **se entender melhor**.
 
 ---
 
 ## Empresas grandes ou distribuídas
 
-A complexidade é alta.
-Áreas são especializadas.
-Decisões impactam muitos pontos.
+A complexidade é alta. Áreas são especializadas. Decisões impactam muitos pontos.
 
 O risco é:
 
@@ -134,8 +113,7 @@ Aqui, ela **conecta estruturalmente** as áreas.
 
 ## Uso com ou sem Inteligência Artificial
 
-Em qualquer tipo de empresa,
-o modelo funciona com ou sem IA.
+Em qualquer tipo de empresa, o modelo funciona com ou sem IA.
 
 Sem IA:
 
@@ -149,8 +127,7 @@ Com IA:
 - o contexto não se perde
 - a IA atua como apoio real
 
-A Empresa Lógica prepara o terreno.
-A IA apenas amplia o alcance.
+A Empresa Lógica prepara o terreno. A IA apenas amplia o alcance.
 
 ---
 
@@ -170,23 +147,16 @@ Esses pontos sustentam o modelo.
 
 ## Em essência
 
-A Empresa Lógica não muda
-quando mudam o tipo ou o tamanho da empresa.
+A Empresa Lógica não muda quando mudam o tipo ou o tamanho da empresa.
 
-Ela se adapta
-porque foi pensada para isso.
+Ela se adapta porque foi pensada para isso.
 
-O modelo é o mesmo.
-O contexto é que varia.
+O modelo é o mesmo. O contexto é que varia.
 
 ---
 
 ## 👉 Próxima leitura recomendada
 
-Agora que a camada de uso está completa,
-o próximo passo é entrar
-na **camada de modelos**,
-onde a Empresa Lógica ganha
-**estruturas reutilizáveis**.
+Agora que a camada de uso está completa, o próximo passo é entrar na **camada de modelos**, onde a Empresa Lógica ganha **estruturas reutilizáveis**.
 
 ➡️ [00 – Introdução aos Modelos](../03-modelos/00-introducao.md)

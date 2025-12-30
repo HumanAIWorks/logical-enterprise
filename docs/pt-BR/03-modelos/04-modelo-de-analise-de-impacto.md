@@ -16,8 +16,7 @@ Este modelo serve para:
 - reduzir retrabalho
 - apoiar decisões mais conscientes
 
-Ele não prevê o futuro.
-Ele reduz surpresas.
+Ele não prevê o futuro. Ele reduz surpresas.
 
 ---
 
@@ -80,8 +79,7 @@ Liste impactos conhecidos:
 - negativos
 - riscos principais
 
-Não é uma lista completa.
-É uma visão consciente.
+Não é uma lista completa. É uma visão consciente.
 
 ---
 
@@ -144,8 +142,7 @@ A IA pode ajudar:
 
 Mas a análise final continua sendo humana.
 
-A IA apoia.
-Não decide.
+A IA apoia. Não decide.
 
 ---
 
@@ -171,8 +168,7 @@ O Modelo de Análise de Impacto serve para:
 - proteger o todo
 - apoiar decisões conscientes
 
-Ele não trava decisões.
-Ele evita decisões cegas.
+Ele não trava decisões. Ele evita decisões cegas.
 
 ---
 

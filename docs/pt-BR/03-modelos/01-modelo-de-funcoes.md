@@ -65,9 +65,7 @@ Por que essa função existe?
 O que deixaria de funcionar se ela não existisse?
 
 Exemplo:
-> Garantir que o produto resolva
-> o problema correto
-> e mantenha coerência ao longo do tempo.
+> Garantir que o produto resolva o problema correto e mantenha coerência ao longo do tempo.
 
 ---
 
@@ -99,8 +97,7 @@ Limites evitam conflito.
 
 ### 5. Relação com outras funções
 
-De quais funções ela depende?
-Quais funções dependem dela?
+De quais funções ela depende? Quais funções dependem dela?
 
 Isso ajuda a montar a hierarquia lógica de dependência.
 

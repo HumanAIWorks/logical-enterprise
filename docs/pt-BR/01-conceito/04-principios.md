@@ -1,20 +1,14 @@
 # Princípios da Empresa Lógica
 
-A Empresa Lógica não se sustenta apenas por definição.
-Ela se mantém funcional ao longo do tempo
-por meio de **princípios claros**.
+A Empresa Lógica não se sustenta apenas por definição. Ela se mantém funcional ao longo do tempo por meio de **princípios claros**.
 
-Estes princípios não são regras rígidas.
-São orientações práticas
-para evitar confusão, perda de contexto
-e decisões desconectadas.
+Estes princípios não são regras rígidas. São orientações práticas para evitar confusão, perda de contexto e decisões desconectadas.
 
 ---
 
 ## Princípio 1 — Clareza antes da execução
 
-Antes de fazer,
-é preciso entender.
+Antes de fazer, é preciso entender.
 
 Toda decisão relevante deve partir de:
 
@@ -22,15 +16,13 @@ Toda decisão relevante deve partir de:
 - um entendimento comum do produto ou serviço
 - regras e limites conhecidos
 
-Executar sem clareza
-apenas acelera erros.
+Executar sem clareza apenas acelera erros.
 
 ---
 
 ## Princípio 2 — Funções antes de pessoas
 
-A Empresa Lógica descreve **funções**,
-não cargos nem indivíduos.
+A Empresa Lógica descreve **funções**, não cargos nem indivíduos.
 
 Isso significa:
 
@@ -38,8 +30,7 @@ Isso significa:
 - definir por que esse papel existe
 - estabelecer quais decisões ele pode tomar
 
-Pessoas mudam.
-Funções permanecem.
+Pessoas mudam. Funções permanecem.
 
 ---
 
@@ -54,12 +45,9 @@ Sempre que uma decisão:
 - altera o funcionamento de um produto
 - impacta mais de uma função
 
-Ela deve ser registrada
-de forma simples e acessível.
+Ela deve ser registrada de forma simples e acessível.
 
-Registrar decisões evita
-discussões repetidas
-e perda de contexto.
+Registrar decisões evita discussões repetidas e perda de contexto.
 
 ---
 
@@ -73,34 +61,27 @@ A Empresa Lógica incentiva que:
 - regras sejam conhecidas
 - exceções sejam explícitas
 
-Quando as regras estão claras,
-o debate deixa de ser pessoal
-e passa a ser objetivo.
+Quando as regras estão claras, o debate deixa de ser pessoal e passa a ser objetivo.
 
 ---
 
 ## Princípio 5 — O todo vem antes das partes
 
-Decisões tomadas em uma parte da empresa
-podem gerar impactos inesperados em outras.
+Decisões tomadas em uma parte da empresa podem gerar impactos inesperados em outras.
 
-Antes de criar, alterar ou decidir algo em uma parte,
-é necessário avaliar:
+Antes de criar, alterar ou decidir algo em uma parte, é necessário avaliar:
 
 - o impacto em outras funções
 - o impacto no produto
 - o impacto no negócio como um todo
 
-A Empresa Lógica existe
-para tornar esses impactos visíveis
-antes que o problema aconteça.
+A Empresa Lógica existe para tornar esses impactos visíveis antes que o problema aconteça.
 
 ---
 
 ## Princípio 6 — Continuidade ao longo do tempo
 
-A Empresa Lógica não é um retrato do momento.
-Ela é um registro vivo.
+A Empresa Lógica não é um retrato do momento. Ela é um registro vivo.
 
 Isso implica:
 
@@ -108,8 +89,7 @@ Isso implica:
 - entender por que algo foi feito
 - evitar reabrir discussões sem necessidade
 
-O passado informa o presente.
-O presente não precisa reinventar tudo.
+O passado informa o presente. O presente não precisa reinventar tudo.
 
 ---
 
@@ -123,8 +103,7 @@ A Empresa Lógica valoriza:
 - linguagem direta
 - estruturas fáceis de manter
 
-Se algo ficou difícil de explicar,
-provavelmente não está claro o suficiente.
+Se algo ficou difícil de explicar, provavelmente não está claro o suficiente.
 
 ---
 
@@ -132,8 +111,7 @@ provavelmente não está claro o suficiente.
 
 A Empresa Lógica não delega decisões à IA.
 
-Ela fornece contexto
-para que a IA:
+Ela fornece contexto para que a IA:
 
 - ajude a pensar
 - explore alternativas
@@ -153,18 +131,15 @@ Quando existe conflito entre:
 - opinião
 - execução
 
-A documentação da Empresa Lógica
-é o ponto de referência.
+A documentação da Empresa Lógica é o ponto de referência.
 
-Isso não elimina debate,
-mas evita decisões baseadas em suposições.
+Isso não elimina debate, mas evita decisões baseadas em suposições.
 
 ---
 
 ## Princípio 10 — Evoluir sem quebrar
 
-A Empresa Lógica aceita mudanças,
-mas de forma consciente.
+A Empresa Lógica aceita mudanças, mas de forma consciente.
 
 Mudanças devem:
 
@@ -172,8 +147,7 @@ Mudanças devem:
 - registrar novas escolhas
 - deixar claro o que mudou e por quê
 
-Evoluir não é apagar o passado.
-É **construir sobre ele**.
+Evoluir não é apagar o passado. É **construir sobre ele**.
 
 ---
 
@@ -187,15 +161,12 @@ Os princípios da Empresa Lógica existem para:
 - facilitar decisões
 - apoiar pessoas e IA
 
-Eles não engessam.
-Eles **orientam**.
+Eles não engessam. Eles **orientam**.
 
 ---
 
 ## 👉 Próxima leitura recomendada
 
-Agora que os princípios estão claros,
-o próximo passo é entender
-**quando usar a Empresa Lógica**.
+Agora que os princípios estão claros, o próximo passo é entender **quando usar a Empresa Lógica**.
 
 ➡️ [00 – Quando Usar a Empresa Lógica](../02-uso/00-quando-usar.md)

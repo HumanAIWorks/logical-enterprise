@@ -115,8 +115,7 @@ Garanta que a pessoa saiba:
 - como sugerir mudanças;
 - como registrar novas decisões.
 
-A documentação não é material de leitura única.  
-Ela é referência constante.
+A documentação não é material de leitura única. Ela é referência constante.
 
 ---
 

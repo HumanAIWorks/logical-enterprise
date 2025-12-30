@@ -19,8 +19,7 @@ Ele existe para:
 - manter coerência entre decisões
 - reduzir variações desnecessárias
 
-Modelos não tomam decisões.
-Eles **orientam o pensamento**.
+Modelos não tomam decisões. Eles **orientam o pensamento**.
 
 ---
 
@@ -92,8 +91,7 @@ Os modelos podem cobrir, por exemplo:
 - avaliação de riscos
 - uso de IA em decisões
 
-Cada modelo tem um objetivo claro.
-Não existe modelo genérico para tudo.
+Cada modelo tem um objetivo claro. Não existe modelo genérico para tudo.
 
 ---
 
@@ -135,8 +133,7 @@ Na Empresa Lógica, modelos existem para:
 - reduzir esquecimento
 - facilitar reutilização
 
-Eles não engessam.
-Eles **ajudam a pensar melhor**.
+Eles não engessam. Eles **ajudam a pensar melhor**.
 
 ---
 

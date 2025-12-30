@@ -2,16 +2,13 @@
 
 A **Empresa Lógica** existe para **potencializar pessoas — não para substituí-las**.
 
-A promessa real da inteligência artificial não é reduzir equipes,
-nem eliminar o trabalho humano.
-A promessa real é **ampliar a capacidade de pensar, decidir e criar**.
+A promessa real da inteligência artificial não é reduzir equipes, nem eliminar o trabalho humano. A promessa real é **ampliar a capacidade de pensar, decidir e criar**.
 
 ---
 
 ## O problema que estamos vivendo
 
-Nunca foi tão fácil produzir coisas.
-E nunca foi tão difícil **manter coerência**.
+Nunca foi tão fácil produzir coisas. E nunca foi tão difícil **manter coerência**.
 
 Projetos nascem rapidamente, mas:
 
@@ -21,8 +18,7 @@ Projetos nascem rapidamente, mas:
 - áreas entram em conflito sem saber por quê
 - o código passa a ser a “verdade”, mesmo quando ninguém lembra a intenção
 
-Esse problema já existia antes da IA.
-Mas, com a popularização das LLMs, ele se tornou impossível de ignorar.
+Esse problema já existia antes da IA. Mas, com a popularização das LLMs, ele se tornou impossível de ignorar.
 
 ---
 
@@ -30,14 +26,11 @@ Mas, com a popularização das LLMs, ele se tornou impossível de ignorar.
 
 **As pessoas esperam que a Inteligência Artificial gere soluções completas e complexas, sem fornecer o contexto necessário.**
 
-Isso não acontece apenas por limitações da tecnologia.
-A raiz do problema é antiga e bem conhecida: **a falha na comunicação**.
+Isso não acontece apenas por limitações da tecnologia. A raiz do problema é antiga e bem conhecida: **a falha na comunicação**.
 
 É o mesmo problema que as empresas enfrentam há décadas.
 
-Quem pede algo geralmente tem uma ideia — às vezes vaga, às vezes muito clara —
-do que espera como resultado.
-Mas, ao tentar se comunicar com quem irá realmente construir, essa ideia se perde.
+Quem pede algo geralmente tem uma ideia — às vezes vaga, às vezes muito clara — do que espera como resultado. Mas, ao tentar se comunicar com quem irá realmente construir, essa ideia se perde.
 
 Por falta de clareza, por comunicação ineficiente, ou simplesmente por pressupostos não ditos, detalhes fundamentais deixam de ser compartilhados.
 
@@ -64,8 +57,7 @@ O resultado é previsível.
 
 Mesmo lidando com pessoas inteligentes, criativas, com amplo conhecimento — ou até com profundo conhecimento técnico — a falta de visão do negócio como um todo torna extremamente difícil a criação de soluções complexas e coerentes.
 
-Sem o devido contexto, quem executa precisa **interpretar**.
-E toda interpretação adiciona ruído.
+Sem o devido contexto, quem executa precisa **interpretar**. E toda interpretação adiciona ruído.
 
 ---
 
@@ -73,13 +65,9 @@ E toda interpretação adiciona ruído.
 
 Quando esse mesmo padrão de comunicação incompleta é aplicado à Inteligência Artificial, o problema não desaparece — ele se **amplifica**.
 
-LLMs não entendem intenções implícitas.
-Elas não conhecem a empresa.
-Não sabem o que é óbvio.
-Não sabem o que “sempre foi assim”.
+LLMs não entendem intenções implícitas. Elas não conhecem a empresa. Não sabem o que é óbvio. Não sabem o que “sempre foi assim”.
 
-Sem contexto, a IA não decide.
-Ela **supõe**.
+Sem contexto, a IA não decide. Ela **supõe**.
 
 E suposições raramente levam ao resultado esperado.
 
@@ -91,14 +79,12 @@ A Empresa Lógica surge como uma resposta direta a esse problema.
 
 Ela existe para tornar explícito **como a empresa pensa, opera e decide**.
 
-Não como organograma.  
-Não como cargos.  
-Não como ferramentas.  
+Não como organograma. Não como cargos. Não como ferramentas.
 
 Mas como um **modelo lógico de funcionamento**, composto por:
 
 - funções (áreas lógicas)
-- princípios e limites claros
+- regras e limites claros
 - fluxos de criação e evolução de produtos
 - contratos entre áreas
 - decisões registradas
@@ -114,11 +100,9 @@ E quando a IA tem acesso a essa fonte, ela deixa de improvisar e passa a **colab
 
 A Empresa Lógica parte de um princípio fundamental:
 
-> A IA deve ampliar a capacidade humana,
-> não substituir o julgamento humano.
+> A IA deve ampliar a capacidade humana, não substituir o julgamento humano.
 
-LLMs são generalistas.
-Isso é uma vantagem imensa.
+LLMs são generalistas. Isso é uma vantagem imensa.
 
 Mas, sem direção, essa generalidade se transforma em inconsistência.
 
@@ -147,8 +131,7 @@ Ela funciona:
 
 A diferença não está no modelo, mas no **nível de detalhamento**.
 
-Toda empresa que cria produtos passa pelas mesmas etapas lógicas.
-O que muda é o quanto isso está explícito ou implícito.
+Toda empresa que cria produtos passa pelas mesmas etapas lógicas. O que muda é o quanto isso está explícito ou implícito.
 
 A Empresa Lógica existe para tornar o implícito **visível, compartilhável e evolutivo**.
 
@@ -163,8 +146,7 @@ A Empresa Lógica assume que:
 - mudanças precisam ser compreendidas
 - conhecimento não pode depender apenas da memória das pessoas
 
-Documentar não é burocracia.
-É **responsabilidade organizacional**.
+Documentar não é burocracia. É **responsabilidade organizacional**.
 
 Especialmente quando sistemas inteligentes participam do processo.
 

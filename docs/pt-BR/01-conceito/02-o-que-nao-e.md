@@ -1,31 +1,22 @@
 # O Que a Empresa Lógica Não É
 
-Entender o que a Empresa Lógica **não é**
-é tão importante quanto entender o que ela é.
+Entender o que a Empresa Lógica **não é** é tão importante quanto entender o que ela é.
 
-Este documento existe para eliminar confusões comuns,
-expectativas irreais
-e interpretações que acabam enfraquecendo o próprio conceito.
+Este documento existe para eliminar confusões comuns, expectativas irreais e interpretações que acabam enfraquecendo o próprio conceito.
 
-A Empresa Lógica funciona melhor
-quando usada exatamente para o que foi criada.
+A Empresa Lógica funciona melhor quando usada exatamente para o que foi criada.
 
 ---
 
 ## A Empresa Lógica não é um software
 
-A Empresa Lógica não é um sistema,
-não é uma plataforma
-e não é uma aplicação.
+A Empresa Lógica não é um sistema, não é uma plataforma e não é uma aplicação.
 
 Ela pode ser documentada em arquivos de texto simples.
 
-Ferramentas podem ser usadas depois,
-mas **não fazem parte do conceito**.
+Ferramentas podem ser usadas depois, mas **não fazem parte do conceito**.
 
-Confundir Empresa Lógica com software
-leva à busca por soluções técnicas
-antes de resolver o problema de entendimento.
+Confundir Empresa Lógica com software leva à busca por soluções técnicas antes de resolver o problema de entendimento.
 
 ---
 
@@ -38,8 +29,7 @@ Ela não é:
 - um backlog
 - um sistema de tickets
 
-A Empresa Lógica não diz
-*o que fazer hoje*.
+A Empresa Lógica não diz *o que fazer hoje*.
 
 Ela ajuda a entender:
 
@@ -60,12 +50,9 @@ Ela não substitui:
 - processos operacionais
 - práticas de liderança
 
-Ela não define rituais,
-cadências
-ou estruturas de gestão.
+Ela não define rituais, cadências ou estruturas de gestão.
 
-A Empresa Lógica atua antes disso,
-criando clareza para que esses métodos funcionem melhor.
+A Empresa Lógica atua antes disso, criando clareza para que esses métodos funcionem melhor.
 
 ---
 
@@ -91,15 +78,11 @@ Uma função pode ser exercida por:
 
 ## A Empresa Lógica não é um sistema de automação
 
-Ela não executa processos.
-Ela não toma decisões.
-Ela não substitui julgamento humano.
+Ela não executa processos. Ela não toma decisões. Ela não substitui julgamento humano.
 
-Automação pode acontecer depois,
-mas apenas **depois que a lógica está clara**.
+Automação pode acontecer depois, mas apenas **depois que a lógica está clara**.
 
-Automatizar sem entendimento
-apenas acelera erros.
+Automatizar sem entendimento apenas acelera erros.
 
 ---
 
@@ -118,8 +101,7 @@ Ela funciona igualmente para:
 - times pequenos
 - empresas em crescimento
 
-O que muda é o nível de detalhamento,
-não o modelo.
+O que muda é o nível de detalhamento, não o modelo.
 
 ---
 
@@ -133,8 +115,7 @@ Ela não promete:
 
 Ela torna a complexidade **visível**.
 
-E tornar algo visível
-é o primeiro passo para lidar com isso de forma consciente.
+E tornar algo visível é o primeiro passo para lidar com isso de forma consciente.
 
 ---
 
@@ -146,9 +127,7 @@ Quando a Empresa Lógica é usada fora de escopo:
 - ela parece lenta
 - ela parece desnecessária
 
-Na maioria dos casos,
-o problema não é o conceito,
-mas a expectativa errada sobre ele.
+Na maioria dos casos, o problema não é o conceito, mas a expectativa errada sobre ele.
 
 ---
 
@@ -165,19 +144,12 @@ A Empresa Lógica **não é**:
 
 Ela é um **modelo de entendimento da empresa**.
 
-Usada corretamente,
-ela não complica.
-Ela **clareia**.
+Usada corretamente, ela não complica. Ela **clareia**.
 
 ---
 
 ## 👉 Próxima leitura recomendada
 
-Agora que está claro
-o que a Empresa Lógica **é**,
-**onde ela começa e termina**
-e **o que ela não é**,
-o próximo passo é entender
-**por que as LLMs precisam desse modelo para funcionar bem**.
+Agora que está claro o que a Empresa Lógica **é**, **onde ela começa e termina** e **o que ela não é**, o próximo passo é entender **por que as LLMs precisam desse modelo para funcionar bem**.
 
 ➡️ [03 – Por Que LLMs Precisam da Empresa Lógica](03-por-que-llms-precisam-disso.md)

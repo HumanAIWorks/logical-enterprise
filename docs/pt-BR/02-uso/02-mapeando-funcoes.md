@@ -1,26 +1,16 @@
 # Mapeando as Funções da Empresa
 
-Mapear funções é o passo mais importante
-para transformar a Empresa Lógica
-em algo utilizável no dia a dia.
+Mapear funções é o passo mais importante para transformar a Empresa Lógica em algo utilizável no dia a dia.
 
-Sem funções claras,
-decisões se confundem,
-responsabilidades se sobrepõem
-e o contexto se perde.
+Sem funções claras, decisões se confundem, responsabilidades se sobrepõem e o contexto se perde.
 
-Este documento existe para mostrar
-**como identificar e descrever funções da empresa
-de forma simples, prática e reutilizável**.
+Este documento existe para mostrar **como identificar e descrever funções da empresa de forma simples, prática e reutilizável**.
 
 ---
 
 ## O que significa “função” na Empresa Lógica
 
-Na Empresa Lógica,
-função não é cargo,
-não é pessoa
-e não é título.
+Na Empresa Lógica, função não é cargo, não é pessoa e não é título.
 
 Uma função representa:
 
@@ -36,9 +26,7 @@ Exemplos de funções (não cargos):
 - controle de qualidade
 - gestão de riscos
 
-Uma pessoa pode exercer várias funções.
-Várias pessoas podem exercer a mesma função.
-Isso não altera o modelo.
+Uma pessoa pode exercer várias funções. Várias pessoas podem exercer a mesma função. Isso não altera o modelo.
 
 ---
 
@@ -51,15 +39,13 @@ Quando funções não estão claras:
 - ninguém sabe quem decide o quê
 - a IA não sabe a quem “escutar”
 
-Mapear funções resolve isso
-antes que vire problema operacional.
+Mapear funções resolve isso antes que vire problema operacional.
 
 ---
 
 ## Como identificar funções reais da empresa
 
-Um bom ponto de partida é observar decisões,
-não atividades.
+Um bom ponto de partida é observar decisões, não atividades.
 
 Pergunte:
 
@@ -67,15 +53,13 @@ Pergunte:
 - quem é responsável por esse tipo de decisão?
 - o que acontece se essa decisão não existir?
 
-Se uma decisão é recorrente,
-ela aponta para uma função.
+Se uma decisão é recorrente, ela aponta para uma função.
 
 ---
 
 ## Comece pelas funções essenciais
 
-Toda empresa, independente do tamanho,
-precisa de algumas funções básicas.
+Toda empresa, independente do tamanho, precisa de algumas funções básicas.
 
 Por exemplo:
 
@@ -85,9 +69,7 @@ Por exemplo:
 - avaliar impactos no negócio
 - manter continuidade ao longo do tempo
 
-Essas funções podem estar concentradas
-em uma única pessoa
-ou distribuídas entre várias.
+Essas funções podem estar concentradas em uma única pessoa ou distribuídas entre várias.
 
 O importante é que elas estejam **claras**.
 
@@ -102,8 +84,7 @@ Cada função pode ser descrita respondendo a poucas perguntas:
 - quais limites ela precisa respeitar?
 - com quais outras funções ela se relaciona?
 
-Evite descrições longas.
-Clareza é mais importante que detalhe.
+Evite descrições longas. Clareza é mais importante que detalhe.
 
 ---
 
@@ -116,11 +97,9 @@ Funções podem:
 - se dividir
 - ser unificadas
 
-A Empresa Lógica não exige que tudo esteja perfeito.
-Ela exige que mudanças sejam **registradas**.
+A Empresa Lógica não exige que tudo esteja perfeito. Ela exige que mudanças sejam **registradas**.
 
-Quando uma função muda,
-o importante é:
+Quando uma função muda, o importante é:
 
 - deixar claro o que mudou
 - registrar o motivo
@@ -130,22 +109,17 @@ o importante é:
 
 ## Evite confundir função com processo
 
-Processos descrevem **como algo é feito**.
-Funções descrevem **quem decide o quê**.
+Processos descrevem **como algo é feito**. Funções descrevem **quem decide o quê**.
 
-Uma mesma função pode existir
-em vários processos diferentes.
+Uma mesma função pode existir em vários processos diferentes.
 
-Manter essa separação
-evita excesso de documentação
-e confusão estrutural.
+Manter essa separação evita excesso de documentação e confusão estrutural.
 
 ---
 
 ## Relação entre funções e decisões
 
-Toda decisão relevante
-deve estar ligada a uma função.
+Toda decisão relevante deve estar ligada a uma função.
 
 Se uma decisão:
 
@@ -155,8 +129,7 @@ Se uma decisão:
 
 Isso é um sinal de alerta.
 
-A Empresa Lógica ajuda a corrigir isso
-tornando a responsabilidade explícita.
+A Empresa Lógica ajuda a corrigir isso tornando a responsabilidade explícita.
 
 ---
 
@@ -170,8 +143,7 @@ Quando funções estão claras:
 - a IA passa a responder com mais coerência
 - o contexto se mantém ao longo do tempo
 
-Não é burocracia.
-É **organização do raciocínio**.
+Não é burocracia. É **organização do raciocínio**.
 
 ---
 
@@ -184,16 +156,12 @@ Mapear funções é:
 - tornar decisões explícitas
 - criar base para coerência futura
 
-Sem funções claras,
-a Empresa Lógica não se sustenta.
+Sem funções claras, a Empresa Lógica não se sustenta.
 
 ---
 
 ## 👉 Próxima leitura recomendada
 
-Agora que as funções estão mapeadas,
-o próximo passo é entender
-**como essas funções se relacionam
-e em que ordem lógica elas dependem umas das outras**.
+Agora que as funções estão mapeadas, o próximo passo é entender **como essas funções se relacionam e em que ordem lógica elas dependem umas das outras**.
 
 ➡️ [03 – Hierarquia Lógica de Dependência](03-hierarquia-logica.md)

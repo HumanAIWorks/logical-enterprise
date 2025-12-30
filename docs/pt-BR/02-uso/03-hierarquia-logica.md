@@ -1,12 +1,8 @@
 # Hierarquia Lógica de Dependência
 
-Na Empresa Lógica, hierarquia não significa poder.
-Significa **dependência lógica**.
+Na Empresa Lógica, hierarquia não significa poder. Significa **dependência lógica**.
 
-Este documento existe para explicar
-como organizar as funções da empresa
-de acordo com **o que precisa existir antes**
-para que o restante funcione.
+Este documento existe para explicar como organizar as funções da empresa de acordo com **o que precisa existir antes** para que o restante funcione.
 
 ---
 
@@ -14,8 +10,7 @@ para que o restante funcione.
 
 Hierarquia lógica responde a uma pergunta simples:
 
-> “O que precisa existir antes
-> para que outra coisa faça sentido?”
+> “O que precisa existir antes para que outra coisa faça sentido?”
 
 Ela não trata de:
 
@@ -30,8 +25,7 @@ Ela trata de **ordem de dependência**.
 
 ## Por que hierarquia por poder não funciona aqui
 
-Hierarquias tradicionais organizam pessoas.
-A Empresa Lógica organiza **funções**.
+Hierarquias tradicionais organizam pessoas. A Empresa Lógica organiza **funções**.
 
 Quando se usa hierarquia de poder:
 
@@ -40,9 +34,7 @@ Quando se usa hierarquia de poder:
 - conflitos viram disputas pessoais
 - a IA não entende qual regra tem prioridade
 
-A hierarquia lógica evita isso
-porque se baseia em necessidade,
-não em status.
+A hierarquia lógica evita isso porque se baseia em necessidade, não em status.
 
 ---
 
@@ -56,15 +48,11 @@ Uma função depende de outra quando:
 
 Exemplo simples:
 
-- não é possível priorizar
-  sem saber **o que existe**
-- não é possível desenvolver
-  sem saber **o que foi definido**
-- não é possível validar
-  sem saber **quais regras se aplicam**
+- não é possível priorizar sem saber **o que existe**
+- não é possível desenvolver sem saber **o que foi definido**
+- não é possível validar sem saber **quais regras se aplicam**
 
-Essa ordem não é discutível.
-Ela é lógica.
+Essa ordem não é discutível. Ela é lógica.
 
 ---
 
@@ -93,19 +81,15 @@ Um exemplo genérico de dependência lógica:
    - por quem
    - com quais meios
 
-Cada nível depende do anterior.
-Inverter essa ordem gera retrabalho.
+Cada nível depende do anterior. Inverter essa ordem gera retrabalho.
 
 ---
 
 ## Funções podem estar no mesmo nível
 
-Hierarquia lógica não significa
-uma função por nível.
+Hierarquia lógica não significa uma função por nível.
 
-Várias funções podem existir
-no mesmo nível de dependência,
-desde que não dependam umas das outras.
+Várias funções podem existir no mesmo nível de dependência, desde que não dependam umas das outras.
 
 O importante é:
 
@@ -130,22 +114,19 @@ Quando isso ocorrer:
 - separe decisões
 - torne os limites mais claros
 
-Ciclos confundem pessoas
-e tornam a IA inconsistente.
+Ciclos confundem pessoas e tornam a IA inconsistente.
 
 ---
 
 ## Como usar a hierarquia lógica no dia a dia
 
-Antes de tomar uma decisão,
-pergunte:
+Antes de tomar uma decisão, pergunte:
 
 - essa decisão depende de algo que ainda não está definido?
 - existe uma função anterior que deveria ser consultada?
 - estou pulando etapas por pressa?
 
-Essas perguntas simples
-evitam grande parte dos problemas.
+Essas perguntas simples evitam grande parte dos problemas.
 
 ---
 
@@ -159,8 +140,7 @@ Quando a hierarquia lógica está clara:
 - a IA responde com mais consistência
 - o todo se mantém íntegro
 
-Não é controle.
-É **clareza de ordem**.
+Não é controle. É **clareza de ordem**.
 
 ---
 
@@ -173,16 +153,12 @@ Hierarquia lógica é:
 - separação entre poder e função
 - base para decisões coerentes
 
-Sem ela,
-a Empresa Lógica perde estrutura.
+Sem ela, a Empresa Lógica perde estrutura.
 
 ---
 
 ## 👉 Próxima leitura recomendada
 
-Agora que as funções estão organizadas
-por dependência lógica,
-o próximo passo é entender
-**como decisões se encaixam nessa estrutura**.
+Agora que as funções estão organizadas por dependência lógica, o próximo passo é entender **como decisões se encaixam nessa estrutura**.
 
 ➡️ [04 – Decisões, Regras e Limites](04-decisoes-regras-limites.md)

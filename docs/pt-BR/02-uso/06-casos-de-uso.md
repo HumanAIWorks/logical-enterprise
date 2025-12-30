@@ -1,16 +1,10 @@
 # Casos de Uso e Exemplos Práticos
 
-A Empresa Lógica não é um conceito teórico.
-Ela aparece no dia a dia,
-quando decisões precisam ser tomadas
-e o contexto não pode se perder.
+A Empresa Lógica não é um conceito teórico. Ela aparece no dia a dia, quando decisões precisam ser tomadas e o contexto não pode se perder.
 
-Este documento mostra
-situações comuns
-onde a Empresa Lógica ajuda de forma clara e prática.
+Este documento mostra situações comuns onde a Empresa Lógica ajuda de forma clara e prática.
 
-Os exemplos são genéricos,
-mas refletem problemas reais.
+Os exemplos são genéricos, mas refletem problemas reais.
 
 ---
 
@@ -18,11 +12,9 @@ mas refletem problemas reais.
 
 ### Situação - Caso 1
 
-Uma pessoa ou empresa tem uma ideia
-e quer transformá-la em um produto.
+Uma pessoa ou empresa tem uma ideia e quer transformá-la em um produto.
 
-O problema não é a ideia,
-mas a dificuldade de:
+O problema não é a ideia, mas a dificuldade de:
 
 - organizar decisões
 - definir o que o produto é e o que não é
@@ -35,8 +27,7 @@ mas a dificuldade de:
 - define regras e limites do produto
 - cria coerência antes da execução
 
-Mesmo sem equipe,
-o pensamento já é de empresa.
+Mesmo sem equipe, o pensamento já é de empresa.
 
 ---
 
@@ -44,12 +35,9 @@ o pensamento já é de empresa.
 
 ### Situação - Caso 2
 
-A empresa cresce rápido.
-Novas pessoas entram.
-Decisões aumentam.
+A empresa cresce rápido. Novas pessoas entram. Decisões aumentam.
 
-O conhecimento começa a se perder
-e conflitos aparecem.
+O conhecimento começa a se perder e conflitos aparecem.
 
 ### Como a Empresa Lógica ajuda - Caso 2
 
@@ -58,8 +46,7 @@ e conflitos aparecem.
 - reduz dependência de pessoas específicas
 - facilita o entendimento de quem chega
 
-O crescimento deixa de ser confuso
-e passa a ser mais controlado.
+O crescimento deixa de ser confuso e passa a ser mais controlado.
 
 ---
 
@@ -74,9 +61,7 @@ A empresa usa IA para:
 - sugerir soluções
 - apoiar planejamento
 
-Mas as respostas variam,
-se contradizem
-ou não respeitam o negócio.
+Mas as respostas variam, se contradizem ou não respeitam o negócio.
 
 ### Como a Empresa Lógica ajuda - Caso 3
 
@@ -91,11 +76,9 @@ ou não respeitam o negócio.
 
 ### Situação - Caso 4
 
-Áreas discordam com frequência.
-Cada uma enxerga o problema de um jeito.
+Áreas discordam com frequência. Cada uma enxerga o problema de um jeito.
 
-Discussões se tornam pessoais
-e decisões não avançam.
+Discussões se tornam pessoais e decisões não avançam.
 
 ### Como a Empresa Lógica ajuda - Caso 4
 
@@ -104,8 +87,7 @@ e decisões não avançam.
 - cria uma referência comum para discussão
 - tira o foco das pessoas e leva para as decisões
 
-O conflito deixa de ser emocional
-e passa a ser estrutural.
+O conflito deixa de ser emocional e passa a ser estrutural.
 
 ---
 
@@ -113,8 +95,7 @@ e passa a ser estrutural.
 
 ### Situação - Caso 5
 
-Um produto já existe,
-mas precisa mudar.
+Um produto já existe, mas precisa mudar.
 
 Existe medo de:
 
@@ -129,8 +110,7 @@ Existe medo de:
 - avalia impactos antes de mudar
 - registra novas decisões
 
-A mudança deixa de ser arriscada
-e passa a ser consciente.
+A mudança deixa de ser arriscada e passa a ser consciente.
 
 ---
 
@@ -138,11 +118,9 @@ e passa a ser consciente.
 
 ### Situação - Caso 6
 
-Novas pessoas entram na empresa,
-ou parceiros externos precisam entender o negócio.
+Novas pessoas entram na empresa, ou parceiros externos precisam entender o negócio.
 
-O alinhamento é lento
-e depende de explicações repetidas.
+O alinhamento é lento e depende de explicações repetidas.
 
 ### Como a Empresa Lógica ajuda - Caso 6
 
@@ -151,8 +129,7 @@ e depende de explicações repetidas.
 - acelera o entendimento
 - cria uma base comum de referência
 
-Menos repetição.
-Mais autonomia.
+Menos repetição. Mais autonomia.
 
 ---
 
@@ -175,15 +152,13 @@ O risco é alto.
 - mostra impactos no todo
 - evita decisões por impulso
 
-As decisões continuam difíceis,
-mas ficam mais bem embasadas.
+As decisões continuam difíceis, mas ficam mais bem embasadas.
 
 ---
 
 ## O que todos os casos têm em comum
 
-Em todos esses cenários,
-o problema não é falta de capacidade.
+Em todos esses cenários, o problema não é falta de capacidade.
 
 É falta de:
 
@@ -204,15 +179,12 @@ A Empresa Lógica é útil quando:
 - o impacto vai além de uma área
 - pessoas e IA precisam pensar juntas
 
-Ela não resolve tudo.
-Mas resolve o que sustenta o restante.
+Ela não resolve tudo. Mas resolve o que sustenta o restante.
 
 ---
 
 ## 👉 Próxima leitura recomendada
 
-Agora que os casos de uso estão claros,
-o próximo passo é entender
-**como a Empresa Lógica se adapta a diferentes tipos de empresa**.
+Agora que os casos de uso estão claros, o próximo passo é entender **como a Empresa Lógica se adapta a diferentes tipos de empresa**.
 
 ➡️ [07 – Adaptação por Tipo de Empresa](07-adaptacao-por-tipo.md)

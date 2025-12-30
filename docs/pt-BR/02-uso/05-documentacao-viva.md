@@ -1,23 +1,16 @@
 # Documentação Viva e Sustentável
 
-A Empresa Lógica só funciona
-se a documentação acompanhar a realidade.
+A Empresa Lógica só funciona se a documentação acompanhar a realidade.
 
-Documentação que não evolui
-vira ruído.
-Documentação que não é usada
-vira peso.
+Documentação que não evolui vira ruído. Documentação que não é usada vira peso.
 
-Este documento existe para explicar
-como manter a documentação da Empresa Lógica
-**viva, útil e sustentável ao longo do tempo**.
+Este documento existe para explicar como manter a documentação da Empresa Lógica **viva, útil e sustentável ao longo do tempo**.
 
 ---
 
 ## Documentação não é um fim
 
-Na Empresa Lógica,
-documentação não é um objetivo em si.
+Na Empresa Lógica, documentação não é um objetivo em si.
 
 Ela existe para:
 
@@ -27,8 +20,7 @@ Ela existe para:
 - facilitar entendimento
 - manter coerência ao longo do tempo
 
-Se a documentação não cumpre esses papéis,
-ela perdeu sua função.
+Se a documentação não cumpre esses papéis, ela perdeu sua função.
 
 ---
 
@@ -41,8 +33,7 @@ Uma documentação é viva quando:
 - reflete o estado atual da empresa
 - é confiável para pessoas e IA
 
-Ela não precisa ser perfeita.
-Precisa ser **relevante**.
+Ela não precisa ser perfeita. Precisa ser **relevante**.
 
 ---
 
@@ -50,17 +41,14 @@ Precisa ser **relevante**.
 
 Um erro comum é documentar demais.
 
-Na Empresa Lógica,
-devem ser documentados principalmente:
+Na Empresa Lógica, devem ser documentados principalmente:
 
 - decisões relevantes
 - regras que orientam decisões
 - limites que não podem ser quebrados
 - mudanças que afetam o todo
 
-Detalhes operacionais excessivos
-tendem a envelhecer rápido
-e raramente são reutilizados.
+Detalhes operacionais excessivos tendem a envelhecer rápido e raramente são reutilizados.
 
 ---
 
@@ -75,8 +63,7 @@ Sempre que algo relevante mudar:
 - um limite for ajustado
 - uma exceção for aplicada
 
-A documentação deve ser atualizada
-como parte do próprio processo de decisão.
+A documentação deve ser atualizada como parte do próprio processo de decisão.
 
 ---
 
@@ -98,8 +85,7 @@ Pequenas atualizações:
 
 ## Clareza antes de formalidade
 
-Na Empresa Lógica,
-clareza é mais importante que formato.
+Na Empresa Lógica, clareza é mais importante que formato.
 
 Prefira:
 
@@ -107,15 +93,13 @@ Prefira:
 - linguagem direta
 - estruturas fáceis de navegar
 
-Se algo ficou difícil de explicar,
-provavelmente não está claro o suficiente.
+Se algo ficou difícil de explicar, provavelmente não está claro o suficiente.
 
 ---
 
 ## Uma única fonte de verdade
 
-Evite múltiplos lugares
-com versões diferentes da mesma informação.
+Evite múltiplos lugares com versões diferentes da mesma informação.
 
 Sempre que possível:
 
@@ -123,15 +107,13 @@ Sempre que possível:
 - evite cópias não sincronizadas
 - direcione pessoas e IA para o mesmo local
 
-Confiar na documentação
-depende de saber onde ela está.
+Confiar na documentação depende de saber onde ela está.
 
 ---
 
 ## Documentação e Inteligência Artificial
 
-Para a IA,
-documentação viva é essencial.
+Para a IA, documentação viva é essencial.
 
 Ela permite que a IA:
 
@@ -140,8 +122,7 @@ Ela permite que a IA:
 - evite repetir sugestões descartadas
 - mantenha coerência ao longo do tempo
 
-IA sem documentação viva
-volta a operar por suposição.
+IA sem documentação viva volta a operar por suposição.
 
 ---
 
@@ -155,8 +136,7 @@ Alguns bons momentos para revisão:
 - quando surgirem conflitos recorrentes
 - quando a IA começar a gerar respostas estranhas
 
-Revisar não significa reescrever tudo.
-Significa **ajustar o que mudou**.
+Revisar não significa reescrever tudo. Significa **ajustar o que mudou**.
 
 ---
 
@@ -169,9 +149,7 @@ Quando a documentação é ignorada:
 - exceções viram padrão
 - o contexto se perde novamente
 
-Nesse ponto,
-o problema não é falta de método.
-É falta de disciplina mínima.
+Nesse ponto, o problema não é falta de método. É falta de disciplina mínima.
 
 ---
 
@@ -184,16 +162,12 @@ Documentação viva é:
 - simples o suficiente para ser mantida
 - confiável para pessoas e IA
 
-Sem isso,
-a Empresa Lógica perde sua base.
+Sem isso, a Empresa Lógica perde sua base.
 
 ---
 
 ## 👉 Próxima leitura recomendada
 
-Agora que está claro
-como manter a Empresa Lógica viva,
-o próximo passo é entender
-**como aplicar o modelo em cenários reais**.
+Agora que está claro como manter a Empresa Lógica viva, o próximo passo é entender **como aplicar o modelo em cenários reais**.
 
 ➡️ [06 – Casos de Uso e Exemplos Práticos](06-casos-de-uso.md)
