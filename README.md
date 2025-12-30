@@ -75,7 +75,7 @@ At a high level, Logical Enterprise organizes:
 
 - functions and responsibilities, as logical roles;
 - decisions and their criteria;
-- rules and limits that cannot be broken;
+- rules and limits that should not be broken without explicit exception;
 - living documentation that keeps up with the company’s evolution;
 - continuity of reasoning over time.
 
@@ -146,7 +146,7 @@ This means:
 
 - commercial use is allowed;
 - adaptations are allowed;
-- transparency is required only when used as a public service.
+- transparency is required only when used as a publicly accessible service.
 
 Full license text: [AGPLv3 License](LICENSE).
 

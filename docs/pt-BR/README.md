@@ -75,7 +75,7 @@ Em alto nível, a Empresa Lógica organiza:
 
 - funções e responsabilidades, como papéis lógicos;
 - decisões e seus critérios;
-- regras e limites que não podem ser quebrados;
+- regras e limites que não devem ser quebrados sem exceção explícita;
 - documentação viva, que acompanha a evolução da empresa;
 - continuidade do raciocínio ao longo do tempo.
 
@@ -146,7 +146,7 @@ Isso significa que:
 
 - o uso comercial é permitido;
 - adaptações são permitidas;
-- transparência é exigida apenas quando usada como serviço público.
+- transparência é exigida apenas quando usada como serviço acessível ao público.
 
 Texto completo da licença: [Licença AGPLv3](../../LICENSE).
 
