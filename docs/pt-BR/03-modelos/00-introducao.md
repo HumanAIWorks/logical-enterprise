@@ -54,7 +54,7 @@ Se um modelo vira um formulário automático, ele perdeu seu propósito.
 
 ## Modelos não são obrigatórios
 
-A Empresa Lógica funciona mesmo sem modelos formais.
+A Empresa Lógica funciona mesmo sem modelos documentados de forma estruturada.
 
 Os modelos existem para:
 

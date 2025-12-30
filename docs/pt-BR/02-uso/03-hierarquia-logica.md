@@ -52,7 +52,7 @@ Exemplo simples:
 - não é possível desenvolver sem saber **o que foi definido**
 - não é possível validar sem saber **quais regras se aplicam**
 
-Essa ordem não é discutível. Ela é lógica.
+Essa ordem é lógica e costuma se repetir.
 
 ---
 

@@ -22,7 +22,7 @@ Eles existem para apoiar o pensamento, não para impor processo.
 
 ## A base: Funções
 
-Tudo começa pelas funções.
+Quando se opta por usar modelos, tudo começa pelas funções.
 
 Sem funções claras:
 

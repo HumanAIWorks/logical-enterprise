@@ -127,17 +127,9 @@ A IA não decide sozinha. Ela auxilia pessoas a pensarem melhor.
 
 ## O que a Empresa Lógica não é
 
-Para evitar interpretações equivocadas, é importante reforçar:
+Para evitar interpretações equivocadas:
 
-A Empresa Lógica:
-
-- não é um software
-- não é um sistema de automação
-- não é um framework de tarefas
-- não é um método de gestão fechado
-- não substitui pessoas
-
-Ela é um **modelo de entendimento da empresa**.
+Ela não é um software nem substitui pessoas; é um **modelo de entendimento da empresa**.
 
 Para mais detalhes, veja:
 [O Que a Empresa Lógica Não É](02-o-que-nao-e.md)

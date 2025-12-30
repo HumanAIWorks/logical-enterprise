@@ -5,6 +5,7 @@ A Empresa Lógica não é um conceito teórico. Ela aparece no dia a dia, quando
 Este documento mostra situações comuns onde a Empresa Lógica ajuda de forma clara e prática.
 
 Os exemplos são genéricos, mas refletem problemas reais.
+Para aplicação detalhada, consulte os playbooks correspondentes.
 
 ---
 
@@ -26,6 +27,9 @@ O problema não é a ideia, mas a dificuldade de:
 - registra decisões iniciais importantes
 - define regras e limites do produto
 - cria coerência antes da execução
+
+Para aplicação detalhada, veja:
+[Playbook de Criação de Produto](../04-playbook/01-playbook-criacao-de-produto.md)
 
 Mesmo sem equipe, o pensamento já é de empresa.
 
@@ -70,6 +74,9 @@ Mas as respostas variam, se contradizem ou não respeitam o negócio.
 - mantém coerência ao longo do tempo
 - transforma a IA em apoio real
 
+Para aplicação detalhada, veja:
+[Playbook de Uso de IA](../04-playbook/04-playbook-uso-de-ia.md)
+
 ---
 
 ## Caso 4 — Conflitos entre áreas
@@ -86,6 +93,9 @@ Discussões se tornam pessoais e decisões não avançam.
 - explicita regras e limites
 - cria uma referência comum para discussão
 - tira o foco das pessoas e leva para as decisões
+
+Para aplicação detalhada, veja:
+[Playbook de Resolução de Conflitos](../04-playbook/03-playbook-resolucao-de-conflitos.md)
 
 O conflito deixa de ser emocional e passa a ser estrutural.
 
@@ -110,6 +120,9 @@ Existe medo de:
 - avalia impactos antes de mudar
 - registra novas decisões
 
+Para aplicação detalhada, veja:
+[Playbook de Evolução de Produto](../04-playbook/02-playbook-evolucao-de-produto.md)
+
 A mudança deixa de ser arriscada e passa a ser consciente.
 
 ---
@@ -128,6 +141,9 @@ O alinhamento é lento e depende de explicações repetidas.
 - reduz dependência de explicações verbais
 - acelera o entendimento
 - cria uma base comum de referência
+
+Para aplicação detalhada, veja:
+[Playbook de Capacitação e Onboarding](../04-playbook/05-playbook-capacitacao-onboarding.md)
 
 Menos repetição. Mais autonomia.
 

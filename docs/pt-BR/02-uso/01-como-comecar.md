@@ -1,4 +1,4 @@
-# Como Iniciar a Empresa Lógica
+# Como Começar a Empresa Lógica
 
 Iniciar a Empresa Lógica não exige um tamanho específico, nem um caminho único.
 
