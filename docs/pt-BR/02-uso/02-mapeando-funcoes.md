@@ -1,6 +1,6 @@
 # Mapeando as Funções da Empresa
 
-Mapear funções é o passo mais importante para transformar a Empresa Lógica em algo utilizável no dia a dia.
+Mapear funções é um dos passos mais importantes para transformar a Empresa Lógica em algo utilizável no dia a dia.
 
 Sem funções claras, decisões se confundem, responsabilidades se sobrepõem e o contexto se perde.
 

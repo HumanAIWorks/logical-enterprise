@@ -97,7 +97,7 @@ Se algo ficou difícil de explicar, provavelmente não está claro o suficiente.
 
 ---
 
-## Uma única fonte de verdade
+## Uma única fonte de verdade lógica
 
 Evite múltiplos lugares com versões diferentes da mesma informação.
 

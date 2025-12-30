@@ -77,7 +77,7 @@ Nesses casos, ela funciona como uma forma de **organizar o que já existe** sem 
 
 ## Uso com Inteligência Artificial
 
-A Empresa Lógica deve ser usada sempre que a IA for chamada para:
+A Empresa Lógica deve ser usada sempre que a IA for chamada para decisões relevantes, como:
 
 - apoiar decisões
 - sugerir soluções

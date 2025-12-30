@@ -83,6 +83,8 @@ Um exemplo genérico de dependência lógica:
 
 Cada nível depende do anterior. Inverter essa ordem gera retrabalho.
 
+A execução depende dessa hierarquia, mas está fora do escopo da Empresa Lógica.
+
 ---
 
 ## Funções podem estar no mesmo nível
