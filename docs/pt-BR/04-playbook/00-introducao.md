@@ -15,7 +15,7 @@ Ele existe para:
 - ajudar a aplicar o modelo no dia a dia;
 - orientar situações recorrentes;
 - reduzir improviso sem direção;
-- manter coerência na execução.
+- manter coerência na aplicação.
 
 Playbooks não são regras fixas. Eles são **referências práticas**.
 
@@ -118,7 +118,7 @@ Playbooks existem para:
 - transformar modelo em prática;
 - apoiar decisões recorrentes;
 - reduzir improviso sem direção;
-- manter coerência na execução.
+- manter coerência na aplicação.
 
 Eles não mandam. Eles **ajudam**.
 

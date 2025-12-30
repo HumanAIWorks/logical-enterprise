@@ -1,6 +1,6 @@
 # Playbook de Criação de Produto
 
-Este playbook mostra como aplicar a Empresa Lógica na criação de um produto, do surgimento da ideia até as primeiras decisões de execução.
+Este playbook mostra como aplicar a Empresa Lógica na criação de um produto, do surgimento da ideia até as primeiras decisões que antecedem a execução.
 
 Ele não define um processo rígido. Ele ajuda a **pensar com ordem**, reduzir erros comuns e manter coerência desde o início.
 
@@ -46,6 +46,7 @@ A criação de um produto, sob a ótica da Empresa Lógica, segue um raciocínio
 6. Avaliar impactos antes de avançar.
 
 Esses passos não são uma sequência fixa, mas uma **ordem lógica**.
+Eles servem como referência e podem ser revisitados conforme o contexto.
 
 ---
 
@@ -86,6 +87,8 @@ Identifique as funções necessárias para criar o produto, por exemplo:
 - execução;
 - avaliação de impacto.
 
+A função de execução aparece para indicar responsabilidade, mas a execução em si está fora do escopo deste playbook.
+
 Não pense em cargos ou pessoas. Pense em responsabilidades.
 
 ---
@@ -117,7 +120,7 @@ Poucas regras claras são suficientes no início.
 
 ## Passo 6 — Avaliar impactos antes de avançar
 
-Antes de partir para execução, avalie:
+Antes de avançar para a execução, avalie:
 
 - que funções são impactadas;
 - que riscos existem;

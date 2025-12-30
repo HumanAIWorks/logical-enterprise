@@ -1,6 +1,6 @@
 # Modelo de Funções
 
-O Modelo de Funções é o modelo base da Empresa Lógica.
+O Modelo de Funções é o modelo base quando a Empresa Lógica escolhe documentar seus modelos de forma estruturada.
 
 Ele existe para responder, de forma clara e reutilizável:
 

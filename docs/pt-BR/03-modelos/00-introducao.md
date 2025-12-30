@@ -91,6 +91,7 @@ Os modelos podem cobrir, por exemplo:
 - avaliação de riscos
 - uso de IA em decisões
 
+Esses são exemplos possíveis, não uma lista fixa.
 Cada modelo tem um objetivo claro. Não existe modelo genérico para tudo.
 
 ---
