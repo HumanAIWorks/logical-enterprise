@@ -4,7 +4,7 @@ O Modelo de Funções é o modelo base quando a Empresa Lógica escolhe document
 
 Ele existe para responder, de forma clara e reutilizável:
 
-- que funções existem na empresa
+- que funções (papéis organizacionais) existem na empresa
 - por que cada função existe
 - que tipo de decisão cada função toma
 - quais limites cada função precisa respeitar

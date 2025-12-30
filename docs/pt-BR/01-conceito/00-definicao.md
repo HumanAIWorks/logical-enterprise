@@ -8,7 +8,7 @@ Esta definição existe para eliminar ambiguidades, alinhar expectativas e servi
 
 ## Definição direta
 
-**Empresa Lógica** é um modelo que descreve como uma empresa funciona e toma decisões, tornando claras as funções que existem na empresa, suas regras, fluxos, limites e decisões, de forma que esse funcionamento possa ser compreendido, utilizado e evoluído ao longo do tempo.
+**Empresa Lógica** é um modelo que descreve como uma empresa funciona e toma decisões, tornando claras as funções (papéis organizacionais) que existem na empresa, suas regras, fluxos, limites (restrições) e decisões, de forma que esse funcionamento possa ser compreendido, utilizado e evoluído ao longo do tempo.
 
 Ela não descreve pessoas ou cargos. Ela descreve **o que precisa existir para a empresa funcionar bem**.
 
@@ -22,7 +22,7 @@ A Empresa Lógica é a camada onde ficam registradas, de forma clara e acessíve
 - quais problemas cada função deve resolver
 - como produtos e serviços são criados e evoluem
 - quais regras orientam as decisões
-- quais limites não podem ser ultrapassados
+- quais limites (restrições) não podem ser ultrapassados
 - quais decisões já foram tomadas e por qual motivo
 
 Essa camada funciona como a **fonte de verdade lógica da empresa**.

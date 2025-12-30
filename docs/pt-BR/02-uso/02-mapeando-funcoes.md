@@ -10,7 +10,7 @@ Este documento existe para mostrar **como identificar e descrever funções da e
 
 ## O que significa “função” na Empresa Lógica
 
-Na Empresa Lógica, função não é cargo, não é pessoa e não é título.
+Na Empresa Lógica, função (papel organizacional) não é cargo, não é pessoa e não é título.
 
 Uma função representa:
 

@@ -75,7 +75,7 @@ Em alto nível, a Empresa Lógica organiza:
 
 - funções e responsabilidades, como papéis lógicos;
 - decisões e seus critérios;
-- regras e limites que não devem ser quebrados sem exceção explícita;
+- regras e limites (restrições) que não devem ser quebrados sem exceção explícita;
 - documentação viva, que acompanha a evolução da empresa;
 - continuidade do raciocínio ao longo do tempo.
 

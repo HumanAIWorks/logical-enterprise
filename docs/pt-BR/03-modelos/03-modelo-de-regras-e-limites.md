@@ -24,7 +24,7 @@ Sem regras e limites claros, cada decisão vira um novo debate.
 Embora relacionados, regra e limite não são a mesma coisa.
 
 - **Regra**: orienta decisões
-- **Limite**: bloqueia decisões
+- **Limite (restrição)**: bloqueia decisões
 
 Regras dizem *como decidir*. Limites dizem *até onde é possível ir*.
 

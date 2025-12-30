@@ -19,7 +19,7 @@ Embora relacionados, decisões, regras e limites não são a mesma coisa.
 
 - **Decisão**: uma escolha feita em um momento específico
 - **Regra**: um critério que orienta várias decisões
-- **Limite**: algo que não pode ser ultrapassado
+- **Limite**: uma restrição que não pode ser ultrapassada
 
 Confundir esses conceitos gera documentação confusa e decisões frágeis.
 
